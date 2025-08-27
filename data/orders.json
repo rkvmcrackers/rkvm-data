@@ -1,0 +1,21 @@
+[
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1790,Asari Colony 4th Street Satchiyapurqm Sivakasi\nFish Market",
+    "customerNotes": "test",
+    "orderItems": [
+      {
+        "productId": "1756301702121",
+        "productName": "testttt",
+        "quantity": 1,
+        "price": 3333
+      }
+    ],
+    "orderTotal": 3333,
+    "id": "1756302073825",
+    "orderDate": "2025-08-27T13:41:13.825Z",
+    "status": "pending"
+  }
+]
