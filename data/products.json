@@ -1,11 +1,12 @@
 [
   {
     "id": "test-1",
-    "name": "Test Product",
+    "name": "gh",
     "price": 100,
     "category": "Test",
     "description": "This is a test product",
-    "inStock": true
+    "inStock": true,
+    "image": ""
   },
   {
     "name": "testttt",
