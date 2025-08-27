@@ -17,5 +17,23 @@
     "id": "1756302073825",
     "orderDate": "2025-08-27T13:41:13.825Z",
     "status": "cancelled"
+  },
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1790,Asari Colony 4th Street Satchiyapurqm Sivakasi\nFish Market",
+    "orderItems": [
+      {
+        "productId": "1756301790322",
+        "productName": "Gs",
+        "quantity": 1,
+        "price": 56
+      }
+    ],
+    "orderTotal": 56,
+    "id": "1756303012772",
+    "orderDate": "2025-08-27T13:56:52.772Z",
+    "status": "pending"
   }
 ]
