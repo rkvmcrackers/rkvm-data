@@ -52,7 +52,7 @@
     "orderTotal": 1110,
     "id": "1756303093723",
     "orderDate": "2025-08-27T13:58:13.723Z",
-    "status": "confirmed"
+    "status": "pending"
   },
   {
     "customerName": "Jaya kumar S",
@@ -70,7 +70,7 @@
     "orderTotal": 555,
     "id": "1756303341143",
     "orderDate": "2025-08-27T14:02:21.143Z",
-    "status": "pending"
+    "status": "shipped"
   },
   {
     "customerName": "Jaya kumar S",
@@ -88,7 +88,7 @@
     "orderTotal": 100,
     "id": "1756312446830",
     "orderDate": "2025-08-27T16:34:06.830Z",
-    "status": "pending"
+    "status": "cancelled"
   },
   {
     "customerName": "Jay Kumar JK",
