@@ -71,5 +71,23 @@
     "id": "1756303341143",
     "orderDate": "2025-08-27T14:02:21.143Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jaya kumar S",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1690B , Asari colony 4th street Satchiyapuram\nSivakasi",
+    "orderItems": [
+      {
+        "productId": "test-1",
+        "productName": "gh",
+        "quantity": 1,
+        "price": 100
+      }
+    ],
+    "orderTotal": 100,
+    "id": "1756312446830",
+    "orderDate": "2025-08-27T16:34:06.830Z",
+    "status": "pending"
   }
 ]
