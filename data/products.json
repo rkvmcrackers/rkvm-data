@@ -22,7 +22,7 @@
     "price": 468,
     "category": "Special",
     "description": "kk",
-    "inStock": false,
+    "inStock": true,
     "image": "",
     "id": "1756310958392"
   }
