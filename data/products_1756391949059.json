@@ -1,0 +1,29 @@
+[
+  {
+    "id": "test-1",
+    "name": "gh",
+    "price": 100,
+    "category": "Test",
+    "description": "This is a test product",
+    "inStock": true,
+    "image": ""
+  },
+  {
+    "name": "bbb",
+    "price": 468,
+    "category": "Special",
+    "description": "kk",
+    "inStock": true,
+    "image": "",
+    "id": "1756310958392"
+  },
+  {
+    "name": "Jaya kumar S",
+    "price": 68,
+    "category": "Aerial",
+    "description": "Hdhd",
+    "inStock": false,
+    "image": "",
+    "id": "1756315568845"
+  }
+]
