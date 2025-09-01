@@ -375,5 +375,23 @@
     "id": "1756750611993",
     "orderDate": "2025-09-01T18:16:51.993Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1790,Asari Colony 4th Street Satchiyapurqm Sivakasi\nFish Market",
+    "orderItems": [
+      {
+        "productId": "1756315568845",
+        "productName": "Jaya kumar S",
+        "quantity": 1,
+        "price": 68
+      }
+    ],
+    "orderTotal": 68,
+    "id": "1756750683213",
+    "orderDate": "2025-09-01T18:18:03.213Z",
+    "status": "pending"
   }
 ]
