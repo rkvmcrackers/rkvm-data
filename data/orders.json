@@ -253,5 +253,24 @@
     "id": "1756747011078",
     "orderDate": "2025-09-01T17:16:51.078Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1690B , Asari colony 4th street Satchiyapuram\nSivakasi",
+    "customerNotes": "test",
+    "orderItems": [
+      {
+        "productId": "1756310958392",
+        "productName": "bbb",
+        "quantity": 1,
+        "price": 468
+      }
+    ],
+    "orderTotal": 468,
+    "id": "1756747583409",
+    "orderDate": "2025-09-01T17:26:23.409Z",
+    "status": "pending"
   }
 ]
