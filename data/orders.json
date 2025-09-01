@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "twst",
+    "orderItems": [
+      {
+        "productId": "1756752397537",
+        "productName": "TEST",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "orderTotal": 55,
+    "id": "1756754349416",
+    "orderDate": "2025-09-01T19:19:09.416Z",
+    "status": "pending"
+  }
+]
