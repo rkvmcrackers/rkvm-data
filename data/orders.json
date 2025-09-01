@@ -357,5 +357,23 @@
     "id": "1756750511130",
     "orderDate": "2025-09-01T18:15:11.130Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jay Kumar JK",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1790,Asari Colony 4th Street Satchiyapurqm Sivakasi\nFish Market",
+    "orderItems": [
+      {
+        "productId": "1756310958392",
+        "productName": "bbb",
+        "quantity": 1,
+        "price": 468
+      }
+    ],
+    "orderTotal": 468,
+    "id": "1756750611993",
+    "orderDate": "2025-09-01T18:16:51.993Z",
+    "status": "pending"
   }
 ]
