@@ -130,5 +130,24 @@
     "id": "1757001803204",
     "orderDate": "2025-09-04T16:03:23.204Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jaya kumar S",
+    "customerPhone": "09080558130",
+    "customerEmail": "jayakumarjunefirst@gmail.com",
+    "customerAddress": "6/1690B , Asari colony 4th street Satchiyapuram\nSivakasi",
+    "customerNotes": "Gh",
+    "orderItems": [
+      {
+        "productId": "1756752397537",
+        "productName": "TEST",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "orderTotal": 55,
+    "id": "1757002125524",
+    "orderDate": "2025-09-04T16:08:45.524Z",
+    "status": "pending"
   }
 ]
