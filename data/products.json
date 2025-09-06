@@ -34,5 +34,14 @@
     "inStock": true,
     "image": "",
     "id": "1757173538480"
+  },
+  {
+    "name": "test",
+    "price": 89,
+    "category": "Ground crackers",
+    "description": "5t",
+    "inStock": true,
+    "image": "",
+    "id": "1757175373856"
   }
 ]
