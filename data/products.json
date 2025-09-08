@@ -52,5 +52,14 @@
     "inStock": true,
     "image": "",
     "id": "1757343278359"
+  },
+  {
+    "name": "dhu",
+    "price": 77,
+    "category": "Ground crackers",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757343437381"
   }
 ]
