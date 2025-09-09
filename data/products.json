@@ -1,14 +1,5 @@
 [
   {
-    "name": "bbb",
-    "price": 89,
-    "category": "Bijli Crackers",
-    "description": "test",
-    "inStock": true,
-    "image": "",
-    "id": "1757088474828"
-  },
-  {
     "name": "tt",
     "price": 55,
     "category": "Festival zone - special",
