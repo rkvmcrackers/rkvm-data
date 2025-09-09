@@ -133,5 +133,14 @@
     "inStock": true,
     "image": "",
     "id": "1757440892355"
+  },
+  {
+    "name": "240 Shot Multi Colour - Premium",
+    "price": 3600,
+    "category": "Repeating multi colour",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757441127362"
   }
 ]
