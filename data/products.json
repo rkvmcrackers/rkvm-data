@@ -1609,5 +1609,14 @@
     "inStock": true,
     "image": "/images/magic-twinkling-pot.jpg",
     "id": "175753219554542"
+  },
+  {
+    "name": "Glow Stick Sparklers",
+    "price": 85,
+    "category": "Sparklers",
+    "description": "Glow in dark sparklers",
+    "inStock": true,
+    "image": "/images/glow-stick-sparklers.jpg",
+    "id": "175753220477043"
   }
 ]
