@@ -223,5 +223,14 @@
     "inStock": true,
     "image": "",
     "id": "1757479278341"
+  },
+  {
+    "name": "Flower Pots Asoka",
+    "price": 105,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757479356181"
   }
 ]
