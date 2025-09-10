@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520450726",
-    "name": "Kids Cartoon Crackers",
-    "price": 150,
-    "category": "Fancy Crackers",
-    "description": "Crackers with cartoon wrappers",
+    "id": "1757520506249",
+    "name": "Glitter Anar",
+    "price": 380,
+    "category": "Flower Pots",
+    "description": "Anar with glittering sparks",
     "inStock": true,
-    "image": "/images/kids-cartoon.jpg"
+    "image": "/images/glitter-anar.jpg"
   }
 ]
