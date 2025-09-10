@@ -1249,5 +1249,14 @@
     "inStock": true,
     "image": "/images/colour-rocket.jpg",
     "id": "17575318830092"
+  },
+  {
+    "name": "Flower Pots Deluxe",
+    "price": 180,
+    "category": "Flower Pots",
+    "description": "Bright and long-lasting spark",
+    "inStock": true,
+    "image": "/images/flower-pots-deluxe.jpg",
+    "id": "17575318914153"
   }
 ]
