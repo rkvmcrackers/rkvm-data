@@ -1411,5 +1411,14 @@
     "inStock": true,
     "image": "/images/golden-rocket.jpg",
     "id": "175753202224220"
+  },
+  {
+    "name": "Kids Cartoon Crackers",
+    "price": 150,
+    "category": "Fancy Crackers",
+    "description": "Crackers with cartoon wrappers",
+    "inStock": true,
+    "image": "/images/kids-cartoon.jpg",
+    "id": "175753203088321"
   }
 ]
