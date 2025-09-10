@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "500 Wala Garland",
-    "price": 700,
-    "category": "Garland Crackers",
-    "description": "500 bursting crackers chain",
+    "name": "Premium Sound Bomb",
+    "price": 350,
+    "category": "Sound Crackers",
+    "description": "Very loud premium bomb",
     "inStock": true,
-    "image": "/images/500-wala.jpg",
-    "id": "1757531768712"
+    "image": "/images/premium-sound-bomb.jpg",
+    "id": "1757531777716"
   }
 ]
