@@ -502,5 +502,14 @@
     "inStock": true,
     "image": "",
     "id": "1757497029713"
+  },
+  {
+    "name": "1/4 kg Paper Bomb ",
+    "price": 40,
+    "category": "Paper bomb",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757497103183"
   }
 ]
