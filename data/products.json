@@ -1474,5 +1474,14 @@
     "inStock": true,
     "image": "/images/1000-wala.jpg",
     "id": "175753207668827"
+  },
+  {
+    "name": "Glitter Anar",
+    "price": 380,
+    "category": "Flower Pots",
+    "description": "Anar with glittering sparks",
+    "inStock": true,
+    "image": "/images/glitter-anar.jpg",
+    "id": "175753208443628"
   }
 ]
