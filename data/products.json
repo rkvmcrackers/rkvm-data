@@ -1681,5 +1681,14 @@
     "inStock": true,
     "image": "/images/mini-sparklers.jpg",
     "id": "175753225964950"
+  },
+  {
+    "name": "Celebration Pack",
+    "price": 1800,
+    "category": "Festival Pack",
+    "description": "Assorted family celebration pack",
+    "inStock": true,
+    "image": "/images/celebration-pack.jpg",
+    "id": "175753226794451"
   }
 ]
