@@ -1654,5 +1654,14 @@
     "inStock": true,
     "image": "/images/fire-wheel.jpg",
     "id": "175753223274647"
+  },
+  {
+    "name": "King Size Anar",
+    "price": 800,
+    "category": "Flower Pots",
+    "description": "Huge golden sparkle cone",
+    "inStock": true,
+    "image": "/images/king-anar.jpg",
+    "id": "175753224235148"
   }
 ]
