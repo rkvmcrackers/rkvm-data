@@ -1429,5 +1429,14 @@
     "inStock": true,
     "image": "/images/whistling-rocket.jpg",
     "id": "175753204001922"
+  },
+  {
+    "name": "Neon Sparklers",
+    "price": 110,
+    "category": "Sparklers",
+    "description": "Neon glow sparklers",
+    "inStock": true,
+    "image": "/images/neon-sparklers.jpg",
+    "id": "175753204254023"
   }
 ]
