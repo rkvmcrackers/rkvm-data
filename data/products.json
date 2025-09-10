@@ -511,5 +511,14 @@
     "inStock": true,
     "image": "",
     "id": "1757497103183"
+  },
+  {
+    "name": "1/2 Kg Paper Bomb",
+    "price": 80,
+    "category": "Paper bomb",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757497210047"
   }
 ]
