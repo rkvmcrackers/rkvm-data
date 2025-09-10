@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520288695",
-    "name": "Twinkling Star Bomb",
-    "price": 220,
-    "category": "Sound Crackers",
-    "description": "Star-like sparkling sound",
+    "id": "1757520386261",
+    "name": "Deluxe Flower Pots",
+    "price": 250,
+    "category": "Flower Pots",
+    "description": "Premium cone with golden sparks",
     "inStock": true,
-    "image": "/images/twinkling-star.jpg"
+    "image": "/images/deluxe-flower-pots.jpg"
   }
 ]
