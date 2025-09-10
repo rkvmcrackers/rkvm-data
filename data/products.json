@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520254276",
-    "name": "100 Wala Garland",
-    "price": 200,
-    "category": "Garland Crackers",
-    "description": "100 bursting crackers chain",
+    "id": "1757520288695",
+    "name": "Twinkling Star Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Star-like sparkling sound",
     "inStock": true,
-    "image": "/images/100-wala.jpg"
+    "image": "/images/twinkling-star.jpg"
   }
 ]
