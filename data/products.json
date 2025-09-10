@@ -1438,5 +1438,14 @@
     "inStock": true,
     "image": "/images/neon-sparklers.jpg",
     "id": "175753204254023"
+  },
+  {
+    "name": "Colourful Flower Pot",
+    "price": 280,
+    "category": "Flower Pots",
+    "description": "Multicolour sparkling cone",
+    "inStock": true,
+    "image": "/images/colourful-flower-pot.jpg",
+    "id": "175753205103224"
   }
 ]
