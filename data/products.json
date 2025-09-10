@@ -1393,5 +1393,14 @@
     "inStock": true,
     "image": "/images/500-wala.jpg",
     "id": "175753200456618"
+  },
+  {
+    "name": "Premium Sound Bomb",
+    "price": 350,
+    "category": "Sound Crackers",
+    "description": "Very loud premium bomb",
+    "inStock": true,
+    "image": "/images/premium-sound-bomb.jpg",
+    "id": "175753201366019"
   }
 ]
