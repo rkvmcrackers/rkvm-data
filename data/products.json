@@ -4617,12 +4617,12 @@
     "id": "1757538209839"
   },
   {
-    "name": "Fancy Single Pipe",
-    "price": 105,
-    "category": "Blue Star Fancy",
-    "description": "5 colour varieties",
+    "name": "Premium 2 Sound",
+    "price": 120,
+    "category": "Sound Crackers",
+    "description": "Loud double bang",
     "inStock": true,
-    "image": "/images/fancy-single-pipe.jpg",
-    "id": "1757538298457"
+    "image": "/images/premium-2-sound.jpg",
+    "id": "1757538302051"
   }
 ]
