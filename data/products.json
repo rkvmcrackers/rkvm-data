@@ -1177,5 +1177,14 @@
     "inStock": true,
     "image": "/images/fancy-single-pipe.jpg",
     "id": "1757530909287"
+  },
+  {
+    "name": "ee",
+    "price": 3333,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757530961359"
   }
 ]
