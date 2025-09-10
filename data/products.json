@@ -1501,5 +1501,14 @@
     "inStock": true,
     "image": "/images/super-bijli.jpg",
     "id": "175753210153430"
+  },
+  {
+    "name": "Magic Wand Sparklers",
+    "price": 140,
+    "category": "Sparklers",
+    "description": "Wand-shaped sparklers for kids",
+    "inStock": true,
+    "image": "/images/magic-wand.jpg",
+    "id": "175753210488231"
   }
 ]
