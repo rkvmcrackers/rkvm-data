@@ -358,5 +358,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495720412"
+  },
+  {
+    "name": "1000 Fuse",
+    "price": 300,
+    "category": "Festival zone - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495797211"
   }
 ]
