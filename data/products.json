@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Twinkling Anar",
-    "price": 330,
-    "category": "Flower Pots",
-    "description": "Cone with twinkling colourful sparks",
+    "name": "Mega Chakkar",
+    "price": 220,
+    "category": "Ground Spinner",
+    "description": "Large ground spinner with fire ring",
     "inStock": true,
-    "image": "/images/twinkling-anar.jpg",
-    "id": "1757531757857"
+    "image": "/images/mega-chakkar.jpg",
+    "id": "1757531759799"
   }
 ]
