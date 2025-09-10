@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Multi-Stage Rocket",
-    "price": 600,
-    "category": "Aerial",
-    "description": "Multiple stage aerial burst",
+    "name": "Twinkling Anar",
+    "price": 330,
+    "category": "Flower Pots",
+    "description": "Cone with twinkling colourful sparks",
     "inStock": true,
-    "image": "/images/multi-stage-rocket.jpg",
-    "id": "1757531748937"
+    "image": "/images/twinkling-anar.jpg",
+    "id": "1757531757857"
   }
 ]
