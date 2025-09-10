@@ -349,5 +349,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495632428"
+  },
+  {
+    "name": "600 Fuse ",
+    "price": 240,
+    "category": "Festival zone - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495720412"
   }
 ]
