@@ -1348,5 +1348,14 @@
     "inStock": true,
     "image": "/images/fancy-sparklers.jpg",
     "id": "175753196950213"
+  },
+  {
+    "name": "Deluxe Flower Pots",
+    "price": 250,
+    "category": "Flower Pots",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/deluxe-flower-pots.jpg",
+    "id": "175753197751314"
   }
 ]
