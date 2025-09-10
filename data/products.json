@@ -1465,5 +1465,14 @@
     "inStock": true,
     "image": "/images/chakra-spin-deluxe.jpg",
     "id": "175753206814026"
+  },
+  {
+    "name": "1000 Wala Garland",
+    "price": 1200,
+    "category": "Garland Crackers",
+    "description": "1000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/1000-wala.jpg",
+    "id": "175753207668827"
   }
 ]
