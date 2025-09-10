@@ -108,12 +108,12 @@
     "id": "1757515936145"
   },
   {
-    "id": "1757519402250",
-    "name": "Mega Chakkar",
-    "price": 220,
-    "category": "Ground Spinner",
-    "description": "Large ground spinner with fire ring",
+    "id": "1757519463263",
+    "name": "Neon Sparklers",
+    "price": 110,
+    "category": "Sparklers",
+    "description": "Neon glow sparklers",
     "inStock": true,
-    "image": "/images/mega-chakkar.jpg"
+    "image": "/images/neon-sparklers.jpg"
   }
 ]
