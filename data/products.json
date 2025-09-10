@@ -1402,5 +1402,14 @@
     "inStock": true,
     "image": "/images/premium-sound-bomb.jpg",
     "id": "175753201366019"
+  },
+  {
+    "name": "Golden Rocket",
+    "price": 400,
+    "category": "Aerial",
+    "description": "Rocket with golden trails",
+    "inStock": true,
+    "image": "/images/golden-rocket.jpg",
+    "id": "175753202224220"
   }
 ]
