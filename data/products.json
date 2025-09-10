@@ -682,5 +682,14 @@
     "inStock": true,
     "image": "",
     "id": "1757500901102"
+  },
+  {
+    "name": "Chotta Fancy Single",
+    "price": 64,
+    "category": "Blue star fancy",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757500961878"
   }
 ]
