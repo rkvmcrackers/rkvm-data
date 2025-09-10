@@ -1627,5 +1627,14 @@
     "inStock": true,
     "image": "/images/50-wala.jpg",
     "id": "175753221337844"
+  },
+  {
+    "name": "Mini Flower Pot",
+    "price": 90,
+    "category": "Flower Pots",
+    "description": "Small cone pot with sparks",
+    "inStock": true,
+    "image": "/images/mini-flower-pot.jpg",
+    "id": "175753222195045"
   }
 ]
