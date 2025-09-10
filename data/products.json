@@ -1204,5 +1204,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757531249350"
+  },
+  {
+    "name": "rrr",
+    "price": 44,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757531287867"
   }
 ]
