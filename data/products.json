@@ -205,5 +205,14 @@
     "inStock": true,
     "image": "",
     "id": "1757479071337"
+  },
+  {
+    "name": "Flower Pots Big",
+    "price": 60,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757479145878"
   }
 ]
