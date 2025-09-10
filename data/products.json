@@ -1645,5 +1645,14 @@
     "inStock": true,
     "image": "/images/sky-shot-bomb.jpg",
     "id": "175753223024346"
+  },
+  {
+    "name": "Fire Wheel Spinner",
+    "price": 140,
+    "category": "Ground Spinner",
+    "description": "Fire wheel spinning cracker",
+    "inStock": true,
+    "image": "/images/fire-wheel.jpg",
+    "id": "175753223274647"
   }
 ]
