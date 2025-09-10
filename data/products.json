@@ -1510,5 +1510,14 @@
     "inStock": true,
     "image": "/images/magic-wand.jpg",
     "id": "175753210488231"
+  },
+  {
+    "name": "Twin Sound Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Double sound effect",
+    "inStock": true,
+    "image": "/images/twin-sound-bomb.jpg",
+    "id": "175753211381032"
   }
 ]
