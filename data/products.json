@@ -1456,5 +1456,14 @@
     "inStock": true,
     "image": "/images/thunder-bomb.jpg",
     "id": "175753205965325"
+  },
+  {
+    "name": "Chakra Spin Deluxe",
+    "price": 150,
+    "category": "Ground Spinner",
+    "description": "Premium spinning cracker",
+    "inStock": true,
+    "image": "/images/chakra-spin-deluxe.jpg",
+    "id": "175753206814026"
   }
 ]
