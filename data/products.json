@@ -484,5 +484,14 @@
     "inStock": true,
     "image": "",
     "id": "1757496858546"
+  },
+  {
+    "name": "Digital Bomb  ",
+    "price": 215,
+    "category": "Bullet & Auto Bombs",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757496959586"
   }
 ]
