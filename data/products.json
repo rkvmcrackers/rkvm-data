@@ -1240,5 +1240,14 @@
     "inStock": true,
     "image": "/images/premium-2-sound.jpg",
     "id": "17575318756741"
+  },
+  {
+    "name": "Colour Rocket",
+    "price": 250,
+    "category": "Aerial",
+    "description": "Multicolour aerial rocket",
+    "inStock": true,
+    "image": "/images/colour-rocket.jpg",
+    "id": "17575318830092"
   }
 ]
