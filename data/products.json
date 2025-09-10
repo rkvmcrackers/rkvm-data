@@ -1492,5 +1492,14 @@
     "inStock": true,
     "image": "/images/colour-shower-rocket.jpg",
     "id": "175753209354729"
+  },
+  {
+    "name": "Super Deluxe Bijli",
+    "price": 180,
+    "category": "Sound Crackers",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/super-bijli.jpg",
+    "id": "175753210153430"
   }
 ]
