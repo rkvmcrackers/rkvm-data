@@ -5101,5 +5101,473 @@
     "inStock": true,
     "image": "/images/celebration-pack.jpg",
     "id": "1757538738983_ol12pod27"
+  },
+  {
+    "name": "Fancy Single Pipe",
+    "price": 105,
+    "category": "Blue Star Fancy",
+    "description": "5 colour varieties",
+    "inStock": true,
+    "image": "/images/fancy-single-pipe.jpg",
+    "id": "1757538764764_ov4j68yrl"
+  },
+  {
+    "name": "Premium 2 Sound",
+    "price": 120,
+    "category": "Sound Crackers",
+    "description": "Loud double bang",
+    "inStock": true,
+    "image": "/images/premium-2-sound.jpg",
+    "id": "1757538764764_ea19vk59y"
+  },
+  {
+    "name": "Colour Rocket",
+    "price": 250,
+    "category": "Aerial",
+    "description": "Multicolour aerial rocket",
+    "inStock": true,
+    "image": "/images/colour-rocket.jpg",
+    "id": "1757538764764_20k5fm68i"
+  },
+  {
+    "name": "Flower Pots Deluxe",
+    "price": 180,
+    "category": "Flower Pots",
+    "description": "Bright and long-lasting spark",
+    "inStock": true,
+    "image": "/images/flower-pots-deluxe.jpg",
+    "id": "1757538764764_lqp02pk6y"
+  },
+  {
+    "name": "Red Chakkar",
+    "price": 75,
+    "category": "Ground Spinner",
+    "description": "Spins fast with red sparks",
+    "inStock": false,
+    "image": "/images/red-chakkar.jpg",
+    "id": "1757538764764_ntbpmhv1o"
+  },
+  {
+    "name": "100 Wala Garland",
+    "price": 200,
+    "category": "Garland Crackers",
+    "description": "100 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/100-wala.jpg",
+    "id": "1757538764764_kq6iu8by4"
+  },
+  {
+    "name": "Peacock Rocket",
+    "price": 300,
+    "category": "Aerial",
+    "description": "Peacock-style rocket effect",
+    "inStock": true,
+    "image": "/images/peacock-rocket.jpg",
+    "id": "1757538764764_lip8j2w7f"
+  },
+  {
+    "name": "Sparklers 12”",
+    "price": 90,
+    "category": "Sparklers",
+    "description": "Long-lasting sparklers",
+    "inStock": true,
+    "image": "/images/sparklers-12.jpg",
+    "id": "1757538764764_olimpq70i"
+  },
+  {
+    "name": "Twinkling Star Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Star-like sparkling sound",
+    "inStock": true,
+    "image": "/images/twinkling-star.jpg",
+    "id": "1757538764764_4zzii9glz"
+  },
+  {
+    "name": "Jumbo Anar",
+    "price": 450,
+    "category": "Flower Pots",
+    "description": "Giant cone with golden fire",
+    "inStock": true,
+    "image": "/images/jumbo-anar.jpg",
+    "id": "1757538764764_9ta0ycesi"
+  },
+  {
+    "name": "200 Wala Garland",
+    "price": 350,
+    "category": "Garland Crackers",
+    "description": "200 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/200-wala.jpg",
+    "id": "1757538764764_iivimcxc4"
+  },
+  {
+    "name": "Silver Rocket",
+    "price": 280,
+    "category": "Aerial",
+    "description": "Shiny silver tail effect",
+    "inStock": true,
+    "image": "/images/silver-rocket.jpg",
+    "id": "1757538764764_sgu5bczlo"
+  },
+  {
+    "name": "Classic Bijli",
+    "price": 50,
+    "category": "Sound Crackers",
+    "description": "Small size electric effect cracker",
+    "inStock": true,
+    "image": "/images/classic-bijli.jpg",
+    "id": "1757538764764_qx2ib51an"
+  },
+  {
+    "name": "Fancy Sparklers 10”",
+    "price": 70,
+    "category": "Sparklers",
+    "description": "Multicolour sparklers",
+    "inStock": true,
+    "image": "/images/fancy-sparklers.jpg",
+    "id": "1757538764764_g1tuu2d00"
+  },
+  {
+    "name": "Deluxe Flower Pots",
+    "price": 250,
+    "category": "Flower Pots",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/deluxe-flower-pots.jpg",
+    "id": "1757538764764_xl95ffyp8"
+  },
+  {
+    "name": "Multi-Stage Rocket",
+    "price": 600,
+    "category": "Aerial",
+    "description": "Multiple stage aerial burst",
+    "inStock": true,
+    "image": "/images/multi-stage-rocket.jpg",
+    "id": "1757538764764_b67zay5ml"
+  },
+  {
+    "name": "Twinkling Anar",
+    "price": 330,
+    "category": "Flower Pots",
+    "description": "Cone with twinkling colourful sparks",
+    "inStock": true,
+    "image": "/images/twinkling-anar.jpg",
+    "id": "1757538764764_w8kqat424"
+  },
+  {
+    "name": "Mega Chakkar",
+    "price": 220,
+    "category": "Ground Spinner",
+    "description": "Large ground spinner with fire ring",
+    "inStock": true,
+    "image": "/images/mega-chakkar.jpg",
+    "id": "1757538764764_pdgnnonj5"
+  },
+  {
+    "name": "500 Wala Garland",
+    "price": 700,
+    "category": "Garland Crackers",
+    "description": "500 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/500-wala.jpg",
+    "id": "1757538764764_uc9wbbhkb"
+  },
+  {
+    "name": "Premium Sound Bomb",
+    "price": 350,
+    "category": "Sound Crackers",
+    "description": "Very loud premium bomb",
+    "inStock": true,
+    "image": "/images/premium-sound-bomb.jpg",
+    "id": "1757538764764_1wp9pjrxb"
+  },
+  {
+    "name": "Golden Rocket",
+    "price": 400,
+    "category": "Aerial",
+    "description": "Rocket with golden trails",
+    "inStock": true,
+    "image": "/images/golden-rocket.jpg",
+    "id": "1757538764764_p6n8cnihd"
+  },
+  {
+    "name": "Kids Cartoon Crackers",
+    "price": 150,
+    "category": "Fancy Crackers",
+    "description": "Crackers with cartoon wrappers",
+    "inStock": true,
+    "image": "/images/kids-cartoon.jpg",
+    "id": "1757538764764_djxfld08w"
+  },
+  {
+    "name": "Whistling Rocket",
+    "price": 320,
+    "category": "Aerial",
+    "description": "Rocket with whistling sound",
+    "inStock": true,
+    "image": "/images/whistling-rocket.jpg",
+    "id": "1757538764764_77bh1192t"
+  },
+  {
+    "name": "Neon Sparklers",
+    "price": 110,
+    "category": "Sparklers",
+    "description": "Neon glow sparklers",
+    "inStock": true,
+    "image": "/images/neon-sparklers.jpg",
+    "id": "1757538764764_traxnlsox"
+  },
+  {
+    "name": "Colourful Flower Pot",
+    "price": 280,
+    "category": "Flower Pots",
+    "description": "Multicolour sparkling cone",
+    "inStock": true,
+    "image": "/images/colourful-flower-pot.jpg",
+    "id": "1757538764764_ywkz0233w"
+  },
+  {
+    "name": "Thunder Bomb",
+    "price": 500,
+    "category": "Sound Crackers",
+    "description": "Super loud thunder bomb",
+    "inStock": true,
+    "image": "/images/thunder-bomb.jpg",
+    "id": "1757538764764_wlpisxa8q"
+  },
+  {
+    "name": "Chakra Spin Deluxe",
+    "price": 150,
+    "category": "Ground Spinner",
+    "description": "Premium spinning cracker",
+    "inStock": true,
+    "image": "/images/chakra-spin-deluxe.jpg",
+    "id": "1757538764764_6dueeqw2f"
+  },
+  {
+    "name": "1000 Wala Garland",
+    "price": 1200,
+    "category": "Garland Crackers",
+    "description": "1000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/1000-wala.jpg",
+    "id": "1757538764764_yyahip3f4"
+  },
+  {
+    "name": "Glitter Anar",
+    "price": 380,
+    "category": "Flower Pots",
+    "description": "Anar with glittering sparks",
+    "inStock": true,
+    "image": "/images/glitter-anar.jpg",
+    "id": "1757538764764_vyhbc03f5"
+  },
+  {
+    "name": "Colour Shower Rocket",
+    "price": 450,
+    "category": "Aerial",
+    "description": "Rocket with shower of colours",
+    "inStock": true,
+    "image": "/images/colour-shower-rocket.jpg",
+    "id": "1757538764764_qecthk8hb"
+  },
+  {
+    "name": "Super Deluxe Bijli",
+    "price": 180,
+    "category": "Sound Crackers",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/super-bijli.jpg",
+    "id": "1757538764764_6dtd7x95i"
+  },
+  {
+    "name": "Magic Wand Sparklers",
+    "price": 140,
+    "category": "Sparklers",
+    "description": "Wand-shaped sparklers for kids",
+    "inStock": true,
+    "image": "/images/magic-wand.jpg",
+    "id": "1757538764764_elw63oact"
+  },
+  {
+    "name": "Twin Sound Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Double sound effect",
+    "inStock": true,
+    "image": "/images/twin-sound-bomb.jpg",
+    "id": "1757538764764_7imywdg16"
+  },
+  {
+    "name": "Peacock Fountain",
+    "price": 500,
+    "category": "Flower Pots",
+    "description": "Cone with peacock feather-like sparks",
+    "inStock": true,
+    "image": "/images/peacock-fountain.jpg",
+    "id": "1757538764764_edn138fi8"
+  },
+  {
+    "name": "Deluxe Rocket Pack",
+    "price": 900,
+    "category": "Aerial Pack",
+    "description": "Pack of 6 deluxe rockets",
+    "inStock": true,
+    "image": "/images/deluxe-rocket-pack.jpg",
+    "id": "1757538764764_jraupcw81"
+  },
+  {
+    "name": "Rainbow Sparklers",
+    "price": 100,
+    "category": "Sparklers",
+    "description": "Rainbow-colored sparkler",
+    "inStock": true,
+    "image": "/images/rainbow-sparklers.jpg",
+    "id": "1757538764764_vzjwnya08"
+  },
+  {
+    "name": "Lightning Chakkar",
+    "price": 260,
+    "category": "Ground Spinner",
+    "description": "High-speed chakkar with sparks",
+    "inStock": true,
+    "image": "/images/lightning-chakkar.jpg",
+    "id": "1757538764764_dbl2gmkzn"
+  },
+  {
+    "name": "2000 Wala Garland",
+    "price": 2400,
+    "category": "Garland Crackers",
+    "description": "2000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/2000-wala.jpg",
+    "id": "1757538764764_bbshgr68p"
+  },
+  {
+    "name": "Deluxe Festival Pack",
+    "price": 2500,
+    "category": "Festival Pack",
+    "description": "Premium assorted crackers pack",
+    "inStock": true,
+    "image": "/images/deluxe-festival-pack.jpg",
+    "id": "1757538764764_b4bmewrpi"
+  },
+  {
+    "name": "Kids Fancy Pack",
+    "price": 350,
+    "category": "Fancy Pack",
+    "description": "Fun pack designed for children",
+    "inStock": true,
+    "image": "/images/kids-fancy-pack.jpg",
+    "id": "1757538764764_ngxilrikv"
+  },
+  {
+    "name": "Bomb Big Size",
+    "price": 280,
+    "category": "Sound Crackers",
+    "description": "Large sized bomb cracker",
+    "inStock": true,
+    "image": "/images/bomb-big.jpg",
+    "id": "1757538764764_udj532mxf"
+  },
+  {
+    "name": "Jumbo Rockets",
+    "price": 1500,
+    "category": "Aerial Pack",
+    "description": "Pack of giant aerial rockets",
+    "inStock": true,
+    "image": "/images/jumbo-rockets.jpg",
+    "id": "1757538764764_7p14ln0v6"
+  },
+  {
+    "name": "Magic Twinkling Pot",
+    "price": 420,
+    "category": "Flower Pots",
+    "description": "Colour twinkling cone",
+    "inStock": true,
+    "image": "/images/magic-twinkling-pot.jpg",
+    "id": "1757538764764_zbhvzzzqg"
+  },
+  {
+    "name": "Glow Stick Sparklers",
+    "price": 85,
+    "category": "Sparklers",
+    "description": "Glow in dark sparklers",
+    "inStock": true,
+    "image": "/images/glow-stick-sparklers.jpg",
+    "id": "1757538764764_0g32o9hxf"
+  },
+  {
+    "name": "Classic 50 Wala",
+    "price": 120,
+    "category": "Garland Crackers",
+    "description": "Classic 50 crackers in chain",
+    "inStock": true,
+    "image": "/images/50-wala.jpg",
+    "id": "1757538764764_z775whpaw"
+  },
+  {
+    "name": "Mini Flower Pot",
+    "price": 90,
+    "category": "Flower Pots",
+    "description": "Small cone pot with sparks",
+    "inStock": true,
+    "image": "/images/mini-flower-pot.jpg",
+    "id": "1757538764764_0tgt2ip2e"
+  },
+  {
+    "name": "Sky Shot Bomb",
+    "price": 500,
+    "category": "Aerial",
+    "description": "Aerial bomb with loud sound",
+    "inStock": true,
+    "image": "/images/sky-shot-bomb.jpg",
+    "id": "1757538764764_83aijlwde"
+  },
+  {
+    "name": "Fire Wheel Spinner",
+    "price": 140,
+    "category": "Ground Spinner",
+    "description": "Fire wheel spinning cracker",
+    "inStock": true,
+    "image": "/images/fire-wheel.jpg",
+    "id": "1757538764764_4vfqgreju"
+  },
+  {
+    "name": "King Size Anar",
+    "price": 800,
+    "category": "Flower Pots",
+    "description": "Huge golden sparkle cone",
+    "inStock": true,
+    "image": "/images/king-anar.jpg",
+    "id": "1757538764764_v3nkl3b3i"
+  },
+  {
+    "name": "Tri-Colour Rocket",
+    "price": 520,
+    "category": "Aerial",
+    "description": "Rocket with 3 colour effects",
+    "inStock": true,
+    "image": "/images/tri-colour-rocket.jpg",
+    "id": "1757538764764_axv72chvq"
+  },
+  {
+    "name": "Mini Sparklers 7”",
+    "price": 60,
+    "category": "Sparklers",
+    "description": "Small sparklers for kids",
+    "inStock": true,
+    "image": "/images/mini-sparklers.jpg",
+    "id": "1757538764764_ih6xy2pi4"
+  },
+  {
+    "name": "Celebration Pack",
+    "price": 1800,
+    "category": "Festival Pack",
+    "description": "Assorted family celebration pack",
+    "inStock": true,
+    "image": "/images/celebration-pack.jpg",
+    "id": "1757538764764_h4h8v99hb"
   }
 ]
