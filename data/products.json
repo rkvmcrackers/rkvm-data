@@ -216,7 +216,7 @@
     "id": "bulk_1757520783624_6"
   },
   {
-    "name": "Sparklers 12Ã¢ÂÂ",
+    "name": "Sparklers 12â",
     "price": 90,
     "category": "Sparklers",
     "description": "Long-lasting sparklers",
@@ -270,7 +270,7 @@
     "id": "bulk_1757520783624_12"
   },
   {
-    "name": "Fancy Sparklers 10Ã¢ÂÂ",
+    "name": "Fancy Sparklers 10â",
     "price": 70,
     "category": "Sparklers",
     "description": "Multicolour sparklers",
@@ -603,7 +603,7 @@
     "id": "bulk_1757520783624_49"
   },
   {
-    "name": "Mini Sparklers 7Ã¢ÂÂ",
+    "name": "Mini Sparklers 7â",
     "price": 60,
     "category": "Sparklers",
     "description": "Small sparklers for kids",
@@ -702,7 +702,7 @@
     "id": "bulk_1757523483040_6"
   },
   {
-    "name": "Sparklers 12â",
+    "name": "Sparklers 12”",
     "price": 90,
     "category": "Sparklers",
     "description": "Long-lasting sparklers",
@@ -756,7 +756,7 @@
     "id": "bulk_1757523483040_12"
   },
   {
-    "name": "Fancy Sparklers 10â",
+    "name": "Fancy Sparklers 10”",
     "price": 70,
     "category": "Sparklers",
     "description": "Multicolour sparklers",
@@ -1089,7 +1089,7 @@
     "id": "bulk_1757523483040_49"
   },
   {
-    "name": "Mini Sparklers 7â",
+    "name": "Mini Sparklers 7”",
     "price": 60,
     "category": "Sparklers",
     "description": "Small sparklers for kids",
@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Sparklers 12”",
-    "price": 90,
-    "category": "Sparklers",
-    "description": "Long-lasting sparklers",
+    "name": "Twinkling Star Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Star-like sparkling sound",
     "inStock": true,
-    "image": "/images/sparklers-12.jpg",
-    "id": "1757531677970"
+    "image": "/images/twinkling-star.jpg",
+    "id": "1757531687596"
   }
 ]
