@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Mega Chakkar",
-    "price": 220,
-    "category": "Ground Spinner",
-    "description": "Large ground spinner with fire ring",
+    "name": "500 Wala Garland",
+    "price": 700,
+    "category": "Garland Crackers",
+    "description": "500 bursting crackers chain",
     "inStock": true,
-    "image": "/images/mega-chakkar.jpg",
-    "id": "1757531759799"
+    "image": "/images/500-wala.jpg",
+    "id": "1757531768712"
   }
 ]
