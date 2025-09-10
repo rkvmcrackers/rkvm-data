@@ -241,5 +241,14 @@
     "inStock": true,
     "image": "",
     "id": "1757479428923"
+  },
+  {
+    "name": "Flower Pots Dlx Colour Koti ",
+    "price": 250,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757479465324"
   }
 ]
