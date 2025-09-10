@@ -646,5 +646,14 @@
     "inStock": true,
     "image": "",
     "id": "1757500326859"
+  },
+  {
+    "name": "Golden Bat Shower",
+    "price": 170,
+    "category": "Glitter hand shower",
+    "description": "Hand Shower - Fountain",
+    "inStock": true,
+    "image": "",
+    "id": "1757500362362"
   }
 ]
