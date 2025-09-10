@@ -1375,5 +1375,14 @@
     "inStock": true,
     "image": "/images/twinkling-anar.jpg",
     "id": "175753198766816"
+  },
+  {
+    "name": "Mega Chakkar",
+    "price": 220,
+    "category": "Ground Spinner",
+    "description": "Large ground spinner with fire ring",
+    "inStock": true,
+    "image": "/images/mega-chakkar.jpg",
+    "id": "175753199637517"
   }
 ]
