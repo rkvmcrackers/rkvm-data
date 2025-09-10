@@ -1231,5 +1231,14 @@
     "inStock": true,
     "image": "/images/fancy-single-pipe.jpg",
     "id": "17575318736090"
+  },
+  {
+    "name": "Premium 2 Sound",
+    "price": 120,
+    "category": "Sound Crackers",
+    "description": "Loud double bang",
+    "inStock": true,
+    "image": "/images/premium-2-sound.jpg",
+    "id": "17575318756741"
   }
 ]
