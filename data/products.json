@@ -124,5 +124,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757519641170"
+  },
+  {
+    "name": "Jay Kumar JK",
+    "price": 44,
+    "category": "Rockets",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757519681771"
   }
 ]
