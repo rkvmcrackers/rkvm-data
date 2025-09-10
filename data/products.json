@@ -1321,5 +1321,14 @@
     "inStock": true,
     "image": "/images/200-wala.jpg",
     "id": "175753194404110"
+  },
+  {
+    "name": "Silver Rocket",
+    "price": 280,
+    "category": "Aerial",
+    "description": "Shiny silver tail effect",
+    "inStock": true,
+    "image": "/images/silver-rocket.jpg",
+    "id": "175753195312811"
   }
 ]
