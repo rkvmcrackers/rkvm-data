@@ -108,12 +108,12 @@
     "id": "1757515936145"
   },
   {
-    "id": "1757519280617",
-    "name": "Fancy Single Pipe",
-    "price": 105,
-    "category": "Blue Star Fancy",
-    "description": "5 colour varieties",
+    "id": "1757519340265",
+    "name": "200 Wala Garland",
+    "price": 350,
+    "category": "Garland Crackers",
+    "description": "200 bursting crackers chain",
     "inStock": true,
-    "image": "/images/fancy-single-pipe.jpg"
+    "image": "/images/200-wala.jpg"
   }
 ]
