@@ -1303,5 +1303,14 @@
     "inStock": true,
     "image": "/images/twinkling-star.jpg",
     "id": "17575319276588"
+  },
+  {
+    "name": "Jumbo Anar",
+    "price": 450,
+    "category": "Flower Pots",
+    "description": "Giant cone with golden fire",
+    "inStock": true,
+    "image": "/images/jumbo-anar.jpg",
+    "id": "17575319361549"
   }
 ]
