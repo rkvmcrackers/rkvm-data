@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Premium 2 Sound",
-    "price": 120,
-    "category": "Sound Crackers",
-    "description": "Loud double bang",
+    "name": "Colour Rocket",
+    "price": 250,
+    "category": "Aerial",
+    "description": "Multicolour aerial rocket",
     "inStock": true,
-    "image": "/images/premium-2-sound.jpg",
-    "id": "1757531631662"
+    "image": "/images/colour-rocket.jpg",
+    "id": "1757531639117"
   }
 ]
