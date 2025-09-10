@@ -1672,5 +1672,14 @@
     "inStock": true,
     "image": "/images/tri-colour-rocket.jpg",
     "id": "175753225165049"
+  },
+  {
+    "name": "Mini Sparklers 7”",
+    "price": 60,
+    "category": "Sparklers",
+    "description": "Small sparklers for kids",
+    "inStock": true,
+    "image": "/images/mini-sparklers.jpg",
+    "id": "175753225964950"
   }
 ]
