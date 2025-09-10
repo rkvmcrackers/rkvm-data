@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Twinkling Star Bomb",
-    "price": 220,
-    "category": "Sound Crackers",
-    "description": "Star-like sparkling sound",
+    "name": "Jumbo Anar",
+    "price": 450,
+    "category": "Flower Pots",
+    "description": "Giant cone with golden fire",
     "inStock": true,
-    "image": "/images/twinkling-star.jpg",
-    "id": "1757531687596"
+    "image": "/images/jumbo-anar.jpg",
+    "id": "1757531697651"
   }
 ]
