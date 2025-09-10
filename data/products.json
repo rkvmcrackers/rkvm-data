@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520650738",
-    "name": "Bomb Big Size",
-    "price": 280,
-    "category": "Sound Crackers",
-    "description": "Large sized bomb cracker",
+    "id": "1757520706263",
+    "name": "Fire Wheel Spinner",
+    "price": 140,
+    "category": "Ground Spinner",
+    "description": "Fire wheel spinning cracker",
     "inStock": true,
-    "image": "/images/bomb-big.jpg"
+    "image": "/images/fire-wheel.jpg"
   }
 ]
