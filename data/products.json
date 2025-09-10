@@ -1528,5 +1528,14 @@
     "inStock": true,
     "image": "/images/peacock-fountain.jpg",
     "id": "175753212201433"
+  },
+  {
+    "name": "Deluxe Rocket Pack",
+    "price": 900,
+    "category": "Aerial Pack",
+    "description": "Pack of 6 deluxe rockets",
+    "inStock": true,
+    "image": "/images/deluxe-rocket-pack.jpg",
+    "id": "175753213082234"
   }
 ]
