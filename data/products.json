@@ -1357,5 +1357,14 @@
     "inStock": true,
     "image": "/images/deluxe-flower-pots.jpg",
     "id": "175753197751314"
+  },
+  {
+    "name": "Multi-Stage Rocket",
+    "price": 600,
+    "category": "Aerial",
+    "description": "Multiple stage aerial burst",
+    "inStock": true,
+    "image": "/images/multi-stage-rocket.jpg",
+    "id": "175753197995815"
   }
 ]
