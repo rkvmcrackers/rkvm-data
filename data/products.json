@@ -4597,5 +4597,14 @@
     "inStock": true,
     "image": "/images/celebration-pack.jpg",
     "id": "1757534333041"
+  },
+  {
+    "name": "Jaya kumar S",
+    "price": 222,
+    "category": "Aerial crackling",
+    "description": "",
+    "inStock": true,
+    "image": "https://via.placeholder.com/300x300?text=Jaya%20kumar%20S",
+    "id": "1757538100527"
   }
 ]
