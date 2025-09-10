@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Silver Rocket",
-    "price": 280,
-    "category": "Aerial",
-    "description": "Shiny silver tail effect",
+    "name": "Classic Bijli",
+    "price": 50,
+    "category": "Sound Crackers",
+    "description": "Small size electric effect cracker",
     "inStock": true,
-    "image": "/images/silver-rocket.jpg",
-    "id": "1757531709821"
+    "image": "/images/classic-bijli.jpg",
+    "id": "1757531719753"
   }
 ]
