@@ -331,5 +331,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495501389"
+  },
+  {
+    "name": "Stripper Bijili 100 Ps",
+    "price": 32,
+    "category": "Bijli Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495592732"
   }
 ]
