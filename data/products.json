@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520506249",
-    "name": "Glitter Anar",
-    "price": 380,
+    "id": "1757520587255",
+    "name": "Peacock Fountain",
+    "price": 500,
     "category": "Flower Pots",
-    "description": "Anar with glittering sparks",
+    "description": "Cone with peacock feather-like sparks",
     "inStock": true,
-    "image": "/images/glitter-anar.jpg"
+    "image": "/images/peacock-fountain.jpg"
   }
 ]
