@@ -376,5 +376,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495862603"
+  },
+  {
+    "name": "5000 Fuse",
+    "price": 1500,
+    "category": "Festival zone - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495942351"
   }
 ]
