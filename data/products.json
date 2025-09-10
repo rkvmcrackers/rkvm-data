@@ -1663,5 +1663,14 @@
     "inStock": true,
     "image": "/images/king-anar.jpg",
     "id": "175753224235148"
+  },
+  {
+    "name": "Tri-Colour Rocket",
+    "price": 520,
+    "category": "Aerial",
+    "description": "Rocket with 3 colour effects",
+    "inStock": true,
+    "image": "/images/tri-colour-rocket.jpg",
+    "id": "175753225165049"
   }
 ]
