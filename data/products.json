@@ -421,5 +421,14 @@
     "inStock": true,
     "image": "",
     "id": "1757496230751"
+  },
+  {
+    "name": "50\" Deluxe Fighter",
+    "price": 96,
+    "category": "Deluxe - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757496299886"
   }
 ]
