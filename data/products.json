@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Colour Rocket",
-    "price": 250,
-    "category": "Aerial",
-    "description": "Multicolour aerial rocket",
+    "name": "Flower Pots Deluxe",
+    "price": 180,
+    "category": "Flower Pots",
+    "description": "Bright and long-lasting spark",
     "inStock": true,
-    "image": "/images/colour-rocket.jpg",
-    "id": "1757531639117"
+    "image": "/images/flower-pots-deluxe.jpg",
+    "id": "1757531646446"
   }
 ]
