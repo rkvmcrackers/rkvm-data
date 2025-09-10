@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Flower Pots Deluxe",
-    "price": 180,
-    "category": "Flower Pots",
-    "description": "Bright and long-lasting spark",
-    "inStock": true,
-    "image": "/images/flower-pots-deluxe.jpg",
-    "id": "1757531646446"
+    "name": "Red Chakkar",
+    "price": 75,
+    "category": "Ground Spinner",
+    "description": "Spins fast with red sparks",
+    "inStock": false,
+    "image": "/images/red-chakkar.jpg",
+    "id": "1757531653403"
   }
 ]
