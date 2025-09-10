@@ -1312,5 +1312,14 @@
     "inStock": true,
     "image": "/images/jumbo-anar.jpg",
     "id": "17575319361549"
+  },
+  {
+    "name": "200 Wala Garland",
+    "price": 350,
+    "category": "Garland Crackers",
+    "description": "200 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/200-wala.jpg",
+    "id": "175753194404110"
   }
 ]
