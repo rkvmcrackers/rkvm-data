@@ -108,12 +108,12 @@
     "id": "1757515936145"
   },
   {
-    "id": "1757519463263",
-    "name": "Neon Sparklers",
-    "price": 110,
+    "id": "1757519525838",
+    "name": "Magic Wand Sparklers",
+    "price": 140,
     "category": "Sparklers",
-    "description": "Neon glow sparklers",
+    "description": "Wand-shaped sparklers for kids",
     "inStock": true,
-    "image": "/images/neon-sparklers.jpg"
+    "image": "/images/magic-wand.jpg"
   }
 ]
