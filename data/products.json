@@ -1591,5 +1591,14 @@
     "inStock": true,
     "image": "/images/bomb-big.jpg",
     "id": "175753217854740"
+  },
+  {
+    "name": "Jumbo Rockets",
+    "price": 1500,
+    "category": "Aerial Pack",
+    "description": "Pack of giant aerial rockets",
+    "inStock": true,
+    "image": "/images/jumbo-rockets.jpg",
+    "id": "175753218699341"
   }
 ]
