@@ -1188,12 +1188,12 @@
     "id": "1757530961359"
   },
   {
-    "name": "wwww",
-    "price": 22,
-    "category": "Ground crackers",
-    "description": "",
+    "name": "Fancy Single Pipe",
+    "price": 105,
+    "category": "Blue Star Fancy",
+    "description": "5 colour varieties",
     "inStock": true,
-    "image": "/images/placeholder.svg",
-    "id": "1757531075854"
+    "image": "/images/fancy-single-pipe.jpg",
+    "id": "1757531152265"
   }
 ]
