@@ -1222,5 +1222,14 @@
     "inStock": true,
     "image": "/images/premium-sound-bomb.jpg",
     "id": "1757531777716"
+  },
+  {
+    "name": "Fancy Single Pipe",
+    "price": 105,
+    "category": "Blue Star Fancy",
+    "description": "5 colour varieties",
+    "inStock": true,
+    "image": "/images/fancy-single-pipe.jpg",
+    "id": "17575318736090"
   }
 ]
