@@ -529,5 +529,14 @@
     "inStock": true,
     "image": "",
     "id": "1757497255680"
+  },
+  {
+    "name": "Money Blast",
+    "price": 50,
+    "category": "Paper bomb",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757497334487"
   }
 ]
