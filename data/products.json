@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520386261",
-    "name": "Deluxe Flower Pots",
-    "price": 250,
-    "category": "Flower Pots",
-    "description": "Premium cone with golden sparks",
+    "id": "1757520450726",
+    "name": "Kids Cartoon Crackers",
+    "price": 150,
+    "category": "Fancy Crackers",
+    "description": "Crackers with cartoon wrappers",
     "inStock": true,
-    "image": "/images/deluxe-flower-pots.jpg"
+    "image": "/images/kids-cartoon.jpg"
   }
 ]
