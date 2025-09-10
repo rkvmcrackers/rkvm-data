@@ -206,5 +206,59 @@
     "id": "1757176353563",
     "orderDate": "2025-09-06T16:32:33.563Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Thangam",
+    "customerPhone": "8220784322",
+    "customerEmail": "saigold1997@gmail.com",
+    "customerAddress": "Sivaksi",
+    "orderItems": [
+      {
+        "productId": "1757334414267",
+        "productName": "2.75 kuruvi ",
+        "quantity": 2,
+        "price": 8
+      },
+      {
+        "productId": "1757439954219",
+        "productName": "5\" Kaliya crackers",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "productId": "1757440302178",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 1,
+        "price": 360
+      },
+      {
+        "productId": "1757440410428",
+        "productName": "30 Multi Colour Shot - Premium",
+        "quantity": 1,
+        "price": 460
+      },
+      {
+        "productId": "1757440618847",
+        "productName": "60 Shot Multi Colour",
+        "quantity": 1,
+        "price": 720
+      },
+      {
+        "productId": "1757440687119",
+        "productName": "60 Shot Multi Colour - Premium",
+        "quantity": 1,
+        "price": 920
+      },
+      {
+        "productId": "1757440741726",
+        "productName": "60 Shot Multi Colour with Crackling",
+        "quantity": 1,
+        "price": 1160
+      }
+    ],
+    "orderTotal": 3668,
+    "id": "1757476861383",
+    "orderDate": "2025-09-10T04:01:01.383Z",
+    "status": "pending"
   }
 ]
