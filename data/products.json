@@ -367,5 +367,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495797211"
+  },
+  {
+    "name": "2000 Fuse",
+    "price": 600,
+    "category": "Festival zone - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495862603"
   }
 ]
