@@ -1636,5 +1636,14 @@
     "inStock": true,
     "image": "/images/mini-flower-pot.jpg",
     "id": "175753222195045"
+  },
+  {
+    "name": "Sky Shot Bomb",
+    "price": 500,
+    "category": "Aerial",
+    "description": "Aerial bomb with loud sound",
+    "inStock": true,
+    "image": "/images/sky-shot-bomb.jpg",
+    "id": "175753223024346"
   }
 ]
