@@ -1618,5 +1618,14 @@
     "inStock": true,
     "image": "/images/glow-stick-sparklers.jpg",
     "id": "175753220477043"
+  },
+  {
+    "name": "Classic 50 Wala",
+    "price": 120,
+    "category": "Garland Crackers",
+    "description": "Classic 50 crackers in chain",
+    "inStock": true,
+    "image": "/images/50-wala.jpg",
+    "id": "175753221337844"
   }
 ]
