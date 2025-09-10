@@ -1573,5 +1573,14 @@
     "inStock": true,
     "image": "/images/deluxe-festival-pack.jpg",
     "id": "175753216434438"
+  },
+  {
+    "name": "Kids Fancy Pack",
+    "price": 350,
+    "category": "Fancy Pack",
+    "description": "Fun pack designed for children",
+    "inStock": true,
+    "image": "/images/kids-fancy-pack.jpg",
+    "id": "175753216748439"
   }
 ]
