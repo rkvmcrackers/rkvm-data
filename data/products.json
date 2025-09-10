@@ -619,5 +619,14 @@
     "inStock": true,
     "image": "/images/celebration-pack.jpg",
     "id": "bulk_1757520783624_51"
+  },
+  {
+    "name": "70",
+    "price": 22,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757522846938"
   }
 ]
