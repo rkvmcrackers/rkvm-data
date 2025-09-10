@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "200 Wala Garland",
-    "price": 350,
-    "category": "Garland Crackers",
-    "description": "200 bursting crackers chain",
+    "name": "Silver Rocket",
+    "price": 280,
+    "category": "Aerial",
+    "description": "Shiny silver tail effect",
     "inStock": true,
-    "image": "/images/200-wala.jpg",
-    "id": "1757531700005"
+    "image": "/images/silver-rocket.jpg",
+    "id": "1757531709821"
   }
 ]
