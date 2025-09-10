@@ -1384,5 +1384,14 @@
     "inStock": true,
     "image": "/images/mega-chakkar.jpg",
     "id": "175753199637517"
+  },
+  {
+    "name": "500 Wala Garland",
+    "price": 700,
+    "category": "Garland Crackers",
+    "description": "500 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/500-wala.jpg",
+    "id": "175753200456618"
   }
 ]
