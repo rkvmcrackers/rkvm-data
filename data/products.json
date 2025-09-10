@@ -1366,5 +1366,14 @@
     "inStock": true,
     "image": "/images/multi-stage-rocket.jpg",
     "id": "175753197995815"
+  },
+  {
+    "name": "Twinkling Anar",
+    "price": 330,
+    "category": "Flower Pots",
+    "description": "Cone with twinkling colourful sparks",
+    "inStock": true,
+    "image": "/images/twinkling-anar.jpg",
+    "id": "175753198766816"
   }
 ]
