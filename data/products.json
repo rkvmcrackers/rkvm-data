@@ -1600,5 +1600,14 @@
     "inStock": true,
     "image": "/images/jumbo-rockets.jpg",
     "id": "175753218699341"
+  },
+  {
+    "name": "Magic Twinkling Pot",
+    "price": 420,
+    "category": "Flower Pots",
+    "description": "Colour twinkling cone",
+    "inStock": true,
+    "image": "/images/magic-twinkling-pot.jpg",
+    "id": "175753219554542"
   }
 ]
