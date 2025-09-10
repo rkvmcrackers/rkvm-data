@@ -250,5 +250,14 @@
     "inStock": true,
     "image": "",
     "id": "1757479465324"
+  },
+  {
+    "name": "Flower Pots Deluxe (5 Pcs)",
+    "price": 145,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757479532131"
   }
 ]
