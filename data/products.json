@@ -1483,5 +1483,14 @@
     "inStock": true,
     "image": "/images/glitter-anar.jpg",
     "id": "175753208443628"
+  },
+  {
+    "name": "Colour Shower Rocket",
+    "price": 450,
+    "category": "Aerial",
+    "description": "Rocket with shower of colours",
+    "inStock": true,
+    "image": "/images/colour-shower-rocket.jpg",
+    "id": "175753209354729"
   }
 ]
