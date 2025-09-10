@@ -610,5 +610,14 @@
     "inStock": true,
     "image": "",
     "id": "1757500053835"
+  },
+  {
+    "name": "Peacock Feather Shower",
+    "price": 160,
+    "category": "Feather fantasy",
+    "description": "The shower function resembles a peacock feather",
+    "inStock": true,
+    "image": "",
+    "id": "1757500114458"
   }
 ]
