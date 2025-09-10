@@ -1420,5 +1420,14 @@
     "inStock": true,
     "image": "/images/kids-cartoon.jpg",
     "id": "175753203088321"
+  },
+  {
+    "name": "Whistling Rocket",
+    "price": 320,
+    "category": "Aerial",
+    "description": "Rocket with whistling sound",
+    "inStock": true,
+    "image": "/images/whistling-rocket.jpg",
+    "id": "175753204001922"
   }
 ]
