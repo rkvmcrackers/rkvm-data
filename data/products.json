@@ -1564,5 +1564,14 @@
     "inStock": true,
     "image": "/images/2000-wala.jpg",
     "id": "175753215583337"
+  },
+  {
+    "name": "Deluxe Festival Pack",
+    "price": 2500,
+    "category": "Festival Pack",
+    "description": "Premium assorted crackers pack",
+    "inStock": true,
+    "image": "/images/deluxe-festival-pack.jpg",
+    "id": "175753216434438"
   }
 ]
