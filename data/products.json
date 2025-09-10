@@ -1294,5 +1294,14 @@
     "inStock": true,
     "image": "/images/sparklers-12.jpg",
     "id": "17575319180187"
+  },
+  {
+    "name": "Twinkling Star Bomb",
+    "price": 220,
+    "category": "Sound Crackers",
+    "description": "Star-like sparkling sound",
+    "inStock": true,
+    "image": "/images/twinkling-star.jpg",
+    "id": "17575319276588"
   }
 ]
