@@ -2671,5 +2671,14 @@
     "description": "",
     "inStock": true,
     "image": "https://picsum.photos/300/300?random=1757532946912"
+  },
+  {
+    "id": "1757533117033",
+    "name": "Jay Kumar JK",
+    "price": 77,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "https://picsum.photos/300/300?random=1757533112473"
   }
 ]
