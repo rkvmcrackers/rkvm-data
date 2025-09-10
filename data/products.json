@@ -1195,5 +1195,14 @@
     "inStock": true,
     "image": "/images/fancy-single-pipe.jpg",
     "id": "1757531152265"
+  },
+  {
+    "name": "rr",
+    "price": 44,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757531249350"
   }
 ]
