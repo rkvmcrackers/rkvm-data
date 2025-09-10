@@ -1339,5 +1339,14 @@
     "inStock": true,
     "image": "/images/classic-bijli.jpg",
     "id": "175753196165112"
+  },
+  {
+    "name": "Fancy Sparklers 10”",
+    "price": 70,
+    "category": "Sparklers",
+    "description": "Multicolour sparklers",
+    "inStock": true,
+    "image": "/images/fancy-sparklers.jpg",
+    "id": "175753196950213"
   }
 ]
