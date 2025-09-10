@@ -655,5 +655,14 @@
     "inStock": true,
     "image": "",
     "id": "1757500362362"
+  },
+  {
+    "name": "AK-47 hot Shot Shower",
+    "price": 170,
+    "category": "Glitter hand shower",
+    "description": "Hand Shower -  fountain",
+    "inStock": true,
+    "image": "",
+    "id": "1757500423378"
   }
 ]
