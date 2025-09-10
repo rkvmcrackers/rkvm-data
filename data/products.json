@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "100 Wala Garland",
-    "price": 200,
-    "category": "Garland Crackers",
-    "description": "100 bursting crackers chain",
+    "name": "Peacock Rocket",
+    "price": 300,
+    "category": "Aerial",
+    "description": "Peacock-style rocket effect",
     "inStock": true,
-    "image": "/images/100-wala.jpg",
-    "id": "1757531661156"
+    "image": "/images/peacock-rocket.jpg",
+    "id": "1757531669332"
   }
 ]
