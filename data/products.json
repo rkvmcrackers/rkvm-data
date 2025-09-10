@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Deluxe Flower Pots",
-    "price": 250,
-    "category": "Flower Pots",
-    "description": "Premium cone with golden sparks",
+    "name": "Multi-Stage Rocket",
+    "price": 600,
+    "category": "Aerial",
+    "description": "Multiple stage aerial burst",
     "inStock": true,
-    "image": "/images/deluxe-flower-pots.jpg",
-    "id": "1757531739529"
+    "image": "/images/multi-stage-rocket.jpg",
+    "id": "1757531748937"
   }
 ]
