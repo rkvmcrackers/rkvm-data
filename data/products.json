@@ -1267,5 +1267,14 @@
     "inStock": false,
     "image": "/images/red-chakkar.jpg",
     "id": "17575318997894"
+  },
+  {
+    "name": "100 Wala Garland",
+    "price": 200,
+    "category": "Garland Crackers",
+    "description": "100 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/100-wala.jpg",
+    "id": "17575319080795"
   }
 ]
