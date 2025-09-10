@@ -97,5 +97,14 @@
     "inStock": true,
     "image": "https://via.placeholder.com/300x300?text=No+Image",
     "id": "1757515871091"
+  },
+  {
+    "name": "kjk",
+    "price": 9,
+    "category": "Ground crackers",
+    "description": "",
+    "inStock": true,
+    "image": "https://via.placeholder.com/300x300?text=No+Image",
+    "id": "1757515936145"
   }
 ]
