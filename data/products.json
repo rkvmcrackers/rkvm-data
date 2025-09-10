@@ -5587,5 +5587,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757539073478"
+  },
+  {
+    "name": "cc",
+    "price": 22,
+    "category": "Twinkling star",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757539320227"
   }
 ]
