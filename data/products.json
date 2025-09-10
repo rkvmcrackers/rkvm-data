@@ -340,5 +340,14 @@
     "inStock": true,
     "image": "",
     "id": "1757495592732"
+  },
+  {
+    "name": "300 Fuse  ",
+    "price": 120,
+    "category": "Festival zone - special",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757495632428"
   }
 ]
