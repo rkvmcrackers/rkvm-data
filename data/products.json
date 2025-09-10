@@ -1555,5 +1555,14 @@
     "inStock": true,
     "image": "/images/lightning-chakkar.jpg",
     "id": "175753214710436"
+  },
+  {
+    "name": "2000 Wala Garland",
+    "price": 2400,
+    "category": "Garland Crackers",
+    "description": "2000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/2000-wala.jpg",
+    "id": "175753215583337"
   }
 ]
