@@ -144,12 +144,12 @@
     "id": "1757520070916"
   },
   {
-    "id": "1757520587255",
-    "name": "Peacock Fountain",
-    "price": 500,
-    "category": "Flower Pots",
-    "description": "Cone with peacock feather-like sparks",
+    "id": "1757520650738",
+    "name": "Bomb Big Size",
+    "price": 280,
+    "category": "Sound Crackers",
+    "description": "Large sized bomb cracker",
     "inStock": true,
-    "image": "/images/peacock-fountain.jpg"
+    "image": "/images/bomb-big.jpg"
   }
 ]
