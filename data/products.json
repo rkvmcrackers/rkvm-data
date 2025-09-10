@@ -1546,5 +1546,14 @@
     "inStock": true,
     "image": "/images/rainbow-sparklers.jpg",
     "id": "175753213880635"
+  },
+  {
+    "name": "Lightning Chakkar",
+    "price": 260,
+    "category": "Ground Spinner",
+    "description": "High-speed chakkar with sparks",
+    "inStock": true,
+    "image": "/images/lightning-chakkar.jpg",
+    "id": "175753214710436"
   }
 ]
