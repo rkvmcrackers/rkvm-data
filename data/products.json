@@ -232,5 +232,14 @@
     "inStock": true,
     "image": "",
     "id": "1757479356181"
+  },
+  {
+    "name": "Flower Pots Colour Koti",
+    "price": 180,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "",
+    "id": "1757479428923"
   }
 ]
