@@ -115,5 +115,14 @@
     "description": "Wand-shaped sparklers for kids",
     "inStock": true,
     "image": "/images/magic-wand.jpg"
+  },
+  {
+    "name": "nnn99",
+    "price": 99,
+    "category": "Twinkling star",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757519641170"
   }
 ]
