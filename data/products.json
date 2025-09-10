@@ -1258,5 +1258,14 @@
     "inStock": true,
     "image": "/images/flower-pots-deluxe.jpg",
     "id": "17575318914153"
+  },
+  {
+    "name": "Red Chakkar",
+    "price": 75,
+    "category": "Ground Spinner",
+    "description": "Spins fast with red sparks",
+    "inStock": false,
+    "image": "/images/red-chakkar.jpg",
+    "id": "17575318997894"
   }
 ]
