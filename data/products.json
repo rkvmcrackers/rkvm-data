@@ -1537,5 +1537,14 @@
     "inStock": true,
     "image": "/images/deluxe-rocket-pack.jpg",
     "id": "175753213082234"
+  },
+  {
+    "name": "Rainbow Sparklers",
+    "price": 100,
+    "category": "Sparklers",
+    "description": "Rainbow-colored sparkler",
+    "inStock": true,
+    "image": "/images/rainbow-sparklers.jpg",
+    "id": "175753213880635"
   }
 ]
