@@ -1519,5 +1519,14 @@
     "inStock": true,
     "image": "/images/twin-sound-bomb.jpg",
     "id": "175753211381032"
+  },
+  {
+    "name": "Peacock Fountain",
+    "price": 500,
+    "category": "Flower Pots",
+    "description": "Cone with peacock feather-like sparks",
+    "inStock": true,
+    "image": "/images/peacock-fountain.jpg",
+    "id": "175753212201433"
   }
 ]
