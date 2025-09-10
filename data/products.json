@@ -4615,5 +4615,14 @@
     "inStock": true,
     "image": "https://via.placeholder.com/300x300?text=Yy",
     "id": "1757538209839"
+  },
+  {
+    "name": "Fancy Single Pipe",
+    "price": 105,
+    "category": "Blue Star Fancy",
+    "description": "5 colour varieties",
+    "inStock": true,
+    "image": "/images/fancy-single-pipe.jpg",
+    "id": "1757538298457"
   }
 ]
