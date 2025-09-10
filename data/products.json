@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Jumbo Anar",
-    "price": 450,
-    "category": "Flower Pots",
-    "description": "Giant cone with golden fire",
+    "name": "200 Wala Garland",
+    "price": 350,
+    "category": "Garland Crackers",
+    "description": "200 bursting crackers chain",
     "inStock": true,
-    "image": "/images/jumbo-anar.jpg",
-    "id": "1757531697651"
+    "image": "/images/200-wala.jpg",
+    "id": "1757531700005"
   }
 ]
