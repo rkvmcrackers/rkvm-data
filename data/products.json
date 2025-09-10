@@ -216,7 +216,7 @@
     "id": "bulk_1757520783624_6"
   },
   {
-    "name": "Sparklers 12â",
+    "name": "Sparklers 12Ã¢ÂÂ",
     "price": 90,
     "category": "Sparklers",
     "description": "Long-lasting sparklers",
@@ -270,7 +270,7 @@
     "id": "bulk_1757520783624_12"
   },
   {
-    "name": "Fancy Sparklers 10â",
+    "name": "Fancy Sparklers 10Ã¢ÂÂ",
     "price": 70,
     "category": "Sparklers",
     "description": "Multicolour sparklers",
@@ -603,7 +603,7 @@
     "id": "bulk_1757520783624_49"
   },
   {
-    "name": "Mini Sparklers 7â",
+    "name": "Mini Sparklers 7Ã¢ÂÂ",
     "price": 60,
     "category": "Sparklers",
     "description": "Small sparklers for kids",
@@ -702,7 +702,7 @@
     "id": "bulk_1757523483040_6"
   },
   {
-    "name": "Sparklers 12”",
+    "name": "Sparklers 12â",
     "price": 90,
     "category": "Sparklers",
     "description": "Long-lasting sparklers",
@@ -756,7 +756,7 @@
     "id": "bulk_1757523483040_12"
   },
   {
-    "name": "Fancy Sparklers 10”",
+    "name": "Fancy Sparklers 10â",
     "price": 70,
     "category": "Sparklers",
     "description": "Multicolour sparklers",
@@ -1089,7 +1089,7 @@
     "id": "bulk_1757523483040_49"
   },
   {
-    "name": "Mini Sparklers 7”",
+    "name": "Mini Sparklers 7â",
     "price": 60,
     "category": "Sparklers",
     "description": "Small sparklers for kids",
@@ -1215,12 +1215,12 @@
     "id": "1757531287867"
   },
   {
-    "name": "Peacock Rocket",
-    "price": 300,
-    "category": "Aerial",
-    "description": "Peacock-style rocket effect",
+    "name": "Sparklers 12”",
+    "price": 90,
+    "category": "Sparklers",
+    "description": "Long-lasting sparklers",
     "inStock": true,
-    "image": "/images/peacock-rocket.jpg",
-    "id": "1757531669332"
+    "image": "/images/sparklers-12.jpg",
+    "id": "1757531677970"
   }
 ]
