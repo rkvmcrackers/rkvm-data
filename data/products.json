@@ -7108,5 +7108,14 @@
     "inStock": true,
     "image": "/images/celebration-pack.jpg",
     "id": "1757558213684_28i9bg593"
+  },
+  {
+    "name": "yy",
+    "price": 99,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757559243535"
   }
 ]
