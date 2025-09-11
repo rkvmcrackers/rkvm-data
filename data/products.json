@@ -6136,5 +6136,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757557627665"
+  },
+  {
+    "name": "Jaya kumar S",
+    "price": 44,
+    "category": "Deluxe - special",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757557642183"
   }
 ]
