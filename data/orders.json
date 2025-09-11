@@ -16,5 +16,35 @@
     "id": "1757602542671",
     "orderDate": "2025-09-11T14:55:42.671Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Thangam",
+    "customerPhone": "8220784322",
+    "customerEmail": "saigold1997@gmail.com",
+    "customerAddress": "Sivakasi",
+    "orderItems": [
+      {
+        "productId": "1757601742217_vi0nfq8mr",
+        "productName": "Fancy Single Pipe",
+        "quantity": 3,
+        "price": 105
+      },
+      {
+        "productId": "1757601742218_arpca27z5",
+        "productName": "Premium 2 Sound",
+        "quantity": 23,
+        "price": 120
+      },
+      {
+        "productId": "1757601742218_h0e8is7g6",
+        "productName": "Colour Rocket",
+        "quantity": 3,
+        "price": 250
+      }
+    ],
+    "orderTotal": 3825,
+    "id": "1757612871448",
+    "orderDate": "2025-09-11T17:47:51.448Z",
+    "status": "pending"
   }
 ]
