@@ -6154,5 +6154,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757557954342"
+  },
+  {
+    "name": "hd",
+    "price": 250,
+    "category": "Fountain & Blast",
+    "description": "High-quality single sound crackers with enhanced audio effect",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757557969486"
   }
 ]
