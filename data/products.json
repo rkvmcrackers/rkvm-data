@@ -7117,5 +7117,14 @@
     "inStock": true,
     "image": "/images/placeholder.svg",
     "id": "1757559243535"
+  },
+  {
+    "name": "zz",
+    "price": 22,
+    "category": "Flower pots",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757559258476"
   }
 ]
