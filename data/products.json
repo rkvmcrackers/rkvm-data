@@ -7594,5 +7594,14 @@
     "inStock": true,
     "image": "/images/celebration-pack.jpg",
     "id": "1757559340805_tw98qidbs"
+  },
+  {
+    "name": "tt",
+    "price": 55,
+    "category": "Twinkling star",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757568243336"
   }
 ]
