@@ -1,1 +1,1316 @@
-[]
+[
+  {
+    "name": "2 3/4 Kuruvi crackers",
+    "price": 8,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_p5ijsizo0"
+  },
+  {
+    "name": "3.5 Lakshmi crackers",
+    "price": 12,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_a3agrj2qh"
+  },
+  {
+    "name": "4 Lakshmi crackers",
+    "price": 16,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_slpsm4n2j"
+  },
+  {
+    "name": "4 Deluxe Lakshmi crackers",
+    "price": 24,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_7xmx9iyc8"
+  },
+  {
+    "name": "4 Gold Lakshmi crackers",
+    "price": 30,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_i4lblprfn"
+  },
+  {
+    "name": "5 Kaliya crackers",
+    "price": 32,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_e6vsqtahx"
+  },
+  {
+    "name": "2 Sound Cracker",
+    "price": 24,
+    "category": "ONE SOUND CRACKERS",
+    "description": "Double sound effect",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_22ohqukem"
+  },
+  {
+    "name": "3 Sound Cracker",
+    "price": 32,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_31wi5bnnp"
+  },
+  {
+    "name": "Flower Pots Small",
+    "price": 40,
+    "category": "FLOWER POTS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_keft23xvm"
+  },
+  {
+    "name": "Flower Pots Big",
+    "price": 60,
+    "category": "FLOWER POTS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_e0h9lc38q"
+  },
+  {
+    "name": "Flower Pots Special",
+    "price": 80,
+    "category": "FLOWER POTS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_dfky786wj"
+  },
+  {
+    "name": "Flower Pots Asoka",
+    "price": 104,
+    "category": "FLOWER POTS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_w9u0ussmf"
+  },
+  {
+    "name": "Flower Pots Col. Koti",
+    "price": 180,
+    "category": "FLOWER POTS",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_29l1zl0ka"
+  },
+  {
+    "name": "Flower Pots Dlx.Colour Koti 10ps",
+    "price": 249,
+    "category": "FLOWER POTS",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_av9oo84zd"
+  },
+  {
+    "name": "Flower Pots Deluxe 5ps",
+    "price": 145,
+    "category": "FLOWER POTS",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_2g79sbu07"
+  },
+  {
+    "name": "Flower Pots Super Deluxe 2ps",
+    "price": 130,
+    "category": "FLOWER POTS",
+    "description": "Premium cone with golden sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_xf4rzpj7i"
+  },
+  {
+    "name": "Ground Chakkar Small",
+    "price": 32,
+    "category": "GROUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_jwmq0b6xc"
+  },
+  {
+    "name": "Ground Chakkar Big 25ps",
+    "price": 70,
+    "category": "GROUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_29pjbofzn"
+  },
+  {
+    "name": "Ground Chakkar Special",
+    "price": 80,
+    "category": "GROUND CRACKERS",
+    "description": "chakkar with sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_2ala8iztl"
+  },
+  {
+    "name": "Ground Chakkar Deluxe",
+    "price": 120,
+    "category": "GROUND CRACKERS",
+    "description": "High-speed chakkar with sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_3n33150aj"
+  },
+  {
+    "name": "1 1/2  Twinkling Star",
+    "price": 25,
+    "category": "TWINKLING STAR",
+    "description": "Bright twinkling sparks",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ZRYQirGgI7AAhiLp_M4LtcoRpr6MdsSe",
+    "id": "1757695038013_u6zv9mvvb"
+  },
+  {
+    "name": "4 Deluxe Twinkling Star",
+    "price": 58,
+    "category": "TWINKLING STAR",
+    "description": "Bright twinkling sparks",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1aOUDbdw3gNDF9QC60yDuqD9H6kqLdKA0",
+    "id": "1757695038013_t5hjnyn2f"
+  },
+  {
+    "name": "Rocket Bomb",
+    "price": 55,
+    "category": "ROCKETS",
+    "description": "Golden trails then blast",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1SVV967FI0JK4vpThCUFKD8ZqMi34IVzt",
+    "id": "1757695038013_ndnnto225"
+  },
+  {
+    "name": "Lunik Rocket",
+    "price": 96,
+    "category": "ROCKETS",
+    "description": "Space Trave",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_si5p3byyt"
+  },
+  {
+    "name": "2 Soun Rocket",
+    "price": 105,
+    "category": "ROCKETS",
+    "description": "Rocket with golden trails",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_v56jlo4k4"
+  },
+  {
+    "name": "Red Bijili 50’ Ps",
+    "price": 16,
+    "category": "BIJILI CRACKERS",
+    "description": "Bijili Crackers 50ps",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1uehY-TPbz1-k7N9e2BbiLcqpnnbMDpkM",
+    "id": "1757695038013_wsc7qg1ig"
+  },
+  {
+    "name": "Red Bijili 100 Ps",
+    "price": 25,
+    "category": "BIJILI CRACKERS",
+    "description": "Bijili Crackers 100ps",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_3q0lxke6m"
+  },
+  {
+    "name": "Stripper Bijili 50’ Ps",
+    "price": 20,
+    "category": "BIJILI CRACKERS",
+    "description": "Bijili Crackers 50ps",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1uehY-TPbz1-k7N9e2BbiLcqpnnbMDpkM",
+    "id": "1757695038013_r7g3q3s4g"
+  },
+  {
+    "name": "Stripper Bijili 100 Ps",
+    "price": 32,
+    "category": "BIJILI CRACKERS",
+    "description": "Bijili Crackers 100ps",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_t61ravlpb"
+  },
+  {
+    "name": "300 Fuse",
+    "price": 120,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_uyujdaycr"
+  },
+  {
+    "name": "600 Fuse",
+    "price": 245,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_m26xltlf1"
+  },
+  {
+    "name": "1000 Fuse",
+    "price": 300,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "1000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_c9ji16cvt"
+  },
+  {
+    "name": "2000 Fuse",
+    "price": 600,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "2000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_z05emxzdb"
+  },
+  {
+    "name": "5000 Fuse",
+    "price": 1500,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "5000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_10bnfdqmi"
+  },
+  {
+    "name": "10000 Fuse",
+    "price": 3000,
+    "category": "FESTIVAL ZONE - SPECIAL",
+    "description": "10000 bursting crackers chain",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_vytklzife"
+  },
+  {
+    "name": "20 EagIe Fighter Crackers",
+    "price": 40,
+    "category": "DELUXE - SPECIAL",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_mizgajk4r"
+  },
+  {
+    "name": "24 Tiger Fighter Crackers",
+    "price": 48,
+    "category": "DELUXE - SPECIAL",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_llpc5v28p"
+  },
+  {
+    "name": "28 Fighter Deluxe Crackers",
+    "price": 56,
+    "category": "DELUXE - SPECIAL",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_eu1p3f4ya"
+  },
+  {
+    "name": "50 Dragan Fighter Crackers",
+    "price": 96,
+    "category": "DELUXE - SPECIAL",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_1uqyd7dss"
+  },
+  {
+    "name": "28 Deluxe Mighty Crackers",
+    "price": 24,
+    "category": "DELUXE - SPECIAL",
+    "description": "Extra powerful bijli crackers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_c1ri311lj"
+  },
+  {
+    "name": "Mini Bullet",
+    "price": 20,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_aymmnmx6s"
+  },
+  {
+    "name": "Super Bullet",
+    "price": 36,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_eclx1ghby"
+  },
+  {
+    "name": "Hydro Bomb",
+    "price": 70,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "Premium bomb",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_cciugwpdz"
+  },
+  {
+    "name": "Classic Bomb",
+    "price": 120,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "Premium bomb",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1cCRPOJAatuPATuplBT6OCqy6sZ07od-W",
+    "id": "1757695038013_ghxrtvgmc"
+  },
+  {
+    "name": "Commando Bomb",
+    "price": 165,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "loud premium bomb",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_f1ol9036w"
+  },
+  {
+    "name": "Digital Bomb",
+    "price": 215,
+    "category": "BULLET & ATOM BOMB'S",
+    "description": "Very loud premium bomb",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_svc0l6n40"
+  },
+  {
+    "name": "Ganga Jamuna",
+    "price": 90,
+    "category": "FOUNTAIN & BLAST",
+    "description": "Boom Shower",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_1zd48xafx"
+  },
+  {
+    "name": "1/4 kg Paper Bomb",
+    "price": 40,
+    "category": "PAPER BOMB",
+    "description": "sound with sizzled papers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_iydep426f"
+  },
+  {
+    "name": "1/2 kg Paper Bomb",
+    "price": 80,
+    "category": "PAPER BOMB",
+    "description": "loud sound with sizzled papers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_74cuo49t4"
+  },
+  {
+    "name": "1 kg Paper Bomb",
+    "price": 160,
+    "category": "PAPER BOMB",
+    "description": "Blast with sizzled papers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_rzl7ifbls"
+  },
+  {
+    "name": "Money Blast",
+    "price": 50,
+    "category": "PAPER BOMB",
+    "description": "Blast with Money papers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_7jocv8773"
+  },
+  {
+    "name": "Assorted Cartoon",
+    "price": 60,
+    "category": "CARTOON'S & FANCY WHEEL",
+    "description": "Crackers with cartoon wrappers",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_gl26n9m94"
+  },
+  {
+    "name": "Golden Wheel",
+    "price": 70,
+    "category": "CARTOON'S & FANCY WHEEL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_lccvp5pfu"
+  },
+  {
+    "name": "Disco Wheel",
+    "price": 80,
+    "category": "CARTOON'S & FANCY WHEEL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_1vf954aiv"
+  },
+  {
+    "name": "Star Pots 5 colour (5ps)",
+    "price": 88,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "Multicolor glittering",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1FPHoFIFBWxPQCwQFA9KdxNkQnU7dXMFo",
+    "id": "1757695038013_38q5j6u2t"
+  },
+  {
+    "name": "Magic Mountain (Gold)",
+    "price": 128,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "Gold colour glittering",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ye10g3vyw"
+  },
+  {
+    "name": "Tin Shower Multicolour",
+    "price": 88,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "Rainbow-colored shower",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D10qmDNGI6WpSfVNZJ4cpdwBZKUff6SisL",
+    "id": "1757695038013_kw0042ag3"
+  },
+  {
+    "name": "Tri-Colour Fountain",
+    "price": 220,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "Cone with twinkling multicolour sparks",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ospc94dzw"
+  },
+  {
+    "name": "Dragan Cool Shower",
+    "price": 120,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "Multicolor- cool shower",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1FVs8VG6v5w-WywTE3samfiSXjpLw37Gm",
+    "id": "1757695038013_20atptkqc"
+  },
+  {
+    "name": "Sizzler Fountain",
+    "price": 110,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ktyoh4hlb"
+  },
+  {
+    "name": "Siren Small (5 Pcs)",
+    "price": 145,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "A fountain with a whistling sound",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_idn9d6s4l"
+  },
+  {
+    "name": "Siren Big (3 Pcs)",
+    "price": 190,
+    "category": "Magical Happy Showers & Fountain",
+    "description": "A fountain with a high whistling sound",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_gw4c6ymps"
+  },
+  {
+    "name": "Peacock Feather Shower",
+    "price": 160,
+    "category": "FEATHER FANTASY",
+    "description": "Peachock Feather danching",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_c0ylcmkk5"
+  },
+  {
+    "name": "Bada Peacock - Big Shinning Feather",
+    "price": 300,
+    "category": "FEATHER FANTASY",
+    "description": "Shinning Feather danching",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_zqygxcqrq"
+  },
+  {
+    "name": "Silver rain tourch",
+    "price": 60,
+    "category": "GLITTER HAND SHOWER",
+    "description": "Pencil sith tourch",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_dxamiicq2"
+  },
+  {
+    "name": "Navrang torches Big 2ps",
+    "price": 210,
+    "category": "GLITTER HAND SHOWER",
+    "description": "Big colour pencil",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_tatdijdhq"
+  },
+  {
+    "name": "Golden Bat Shower",
+    "price": 170,
+    "category": "GLITTER HAND SHOWER",
+    "description": "shower and sparkles",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_77vfypvcr"
+  },
+  {
+    "name": "AK-47 hot Shot Shower",
+    "price": 170,
+    "category": "GLITTER HAND SHOWER",
+    "description": "shower and sparkles",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1udSlJGtfaeE4z8zgxIrqXLZtKCjrty2g",
+    "id": "1757695038013_dsocpg7b8"
+  },
+  {
+    "name": "Hanuman Gatha Shower",
+    "price": 195,
+    "category": "GLITTER HAND SHOWER",
+    "description": "shower and sparkles",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1qAruZoL4Exs2hJz5gEHR6rbuMXwdsPV9",
+    "id": "1757695038013_r7v309gfs"
+  },
+  {
+    "name": "Sil/Silay - Gold Glitering",
+    "price": 20,
+    "category": "New Age of Crackers",
+    "description": "Gold sparks and glittering",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1Lvje6HTdqX6P-DWxyk0GimztKafLgESo",
+    "id": "1757695038013_4uytut3zf"
+  },
+  {
+    "name": "Chit Put-Red & Green",
+    "price": 15,
+    "category": "New Age of Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_06olqv2qh"
+  },
+  {
+    "name": "Spinner -. Bambaram",
+    "price": 129,
+    "category": "New Age of Crackers",
+    "description": "spinner with colour ring",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1v3oqf7UUy7vLn_EqPqctYThuVcFt6HTo",
+    "id": "1757695038013_obeqblsce"
+  },
+  {
+    "name": "Helicopter",
+    "price": 105,
+    "category": "New Age of Crackers",
+    "description": "sky wings - chopper",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ertMud0G956xabAdEtstHWwY3V7QG3iW",
+    "id": "1757695038013_qei7zz96f"
+  },
+  {
+    "name": "4&4 Wheel fantacy",
+    "price": 145,
+    "category": "New Age of Crackers",
+    "description": "spinning & dancing fountain",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_t76sx6vhc"
+  },
+  {
+    "name": "Photo Flash",
+    "price": 55,
+    "category": "New Age of Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_1dvczv709"
+  },
+  {
+    "name": "Colour Smoke(3 Pcs)",
+    "price": 115,
+    "category": "New Age of Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_08183la4r"
+  },
+  {
+    "name": "colour Butterfly",
+    "price": 104,
+    "category": "New Age of Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1x813ntDeKNTLdVSm2Obyu0pGXr2092za",
+    "id": "1757695038013_phuy0bqwt"
+  },
+  {
+    "name": "Rotating Sparklers",
+    "price": 180,
+    "category": "New Age of Crackers",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_51yoarbp7"
+  },
+  {
+    "name": "Snake Tablet",
+    "price": 20,
+    "category": "CHILDREN SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ckoinq8g2"
+  },
+  {
+    "name": "Roll Cap Gun - weight",
+    "price": 210,
+    "category": "CHILDREN SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_a0e51lpxo"
+  },
+  {
+    "name": "Ring cap Gun - Pistal",
+    "price": 310,
+    "category": "CHILDREN SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_0f8sb02j4"
+  },
+  {
+    "name": "Plastic Gun with Roll Cap",
+    "price": 140,
+    "category": "CHILDREN SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_466ee0a5z"
+  },
+  {
+    "name": "Roll caps - Premium",
+    "price": 120,
+    "category": "CHILDREN SPECIAL",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_fjm1osw76"
+  },
+  {
+    "name": "Chotta Fancy",
+    "price": 40,
+    "category": "SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_n6epuiqlq"
+  },
+  {
+    "name": "Penta Colour Collection 5ps",
+    "price": 145,
+    "category": "SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D16kM7OrMo-aS637ejjY6nrFC6WeNeqp3n",
+    "id": "1757695038013_rtzy9frfn"
+  },
+  {
+    "name": "2 Fancy Pipe Single",
+    "price": 88,
+    "category": "SINGLE SHOT FANCY",
+    "description": "5 Colour Varietes",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1GAwTqU5r-UOPr8YjVW37u0_jBqHEuwlF",
+    "id": "1757695038013_noodc7v2i"
+  },
+  {
+    "name": "3 Pieces Fancy 3ps - 3 colour",
+    "price": 215,
+    "category": "SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1rnQ8ZVC5LTeFBbUpzuwbst7xcQ82NbBU",
+    "id": "1757695038013_8k68j1s6i"
+  },
+  {
+    "name": "3.5 Single pipe Smash Series",
+    "price": 248,
+    "category": "SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_pa78wbqhy"
+  },
+  {
+    "name": "3.5 Knight Series Double Pieces",
+    "price": 460,
+    "category": "SINGLE SHOT FANCY",
+    "description": "Bright sparks with 5 colour variants.",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_maov4nv34"
+  },
+  {
+    "name": "Double Ball Twins - High Shot",
+    "price": 370,
+    "category": "SINGLE SHOT FANCY",
+    "description": "Twin shots rising high with bright colors and loud burst",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_dh6taykru"
+  },
+  {
+    "name": "4 Fancy Pipes (Glory Series)",
+    "price": 380,
+    "category": "SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_xmfdcnonj"
+  },
+  {
+    "name": "12 Shot Multi Colour",
+    "price": 110,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1nCX07TSY9MHdO9dRmROcpqqXIFxv3sne",
+    "id": "1757695038013_e4nh2s8w7"
+  },
+  {
+    "name": "25 Shot Multi Colour",
+    "price": 260,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "colourful star effects",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_wnup1yvj8"
+  },
+  {
+    "name": "25 Shot Multi Colour Long",
+    "price": 340,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "colourful lighting effects",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ONhPYFIJBypCQ5B8fgPVO5ZV3KYgMJiy",
+    "id": "1757695038013_v4ob6pouz"
+  },
+  {
+    "name": "30 Shot Multi Colour",
+    "price": 360,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "multi-colour lighting up the sky",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1Ocd9LWSPXsnUuDuI9Gi0i9fnriptUbZx",
+    "id": "1757695038013_35d9jhz2b"
+  },
+  {
+    "name": "60 Shot Multi Colou",
+    "price": 720,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "multi-colour lighting up the sky",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1_I3PLJRPByMQg_9sE1tplhN0iyAEUFs5",
+    "id": "1757695038013_pco8s391h"
+  },
+  {
+    "name": "120 Shot Multi Colour",
+    "price": 1440,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "multi-colour lighting up the sky",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1uYHs1oNYtdO_4fFhReoy5DsX3DAsK6nV",
+    "id": "1757695038013_u3lr84vj0"
+  },
+  {
+    "name": "240 Shot Multi Colour",
+    "price": 2880,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "rapid shots with dazzling colour effects filling the sky",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_q1kdmzf3u"
+  },
+  {
+    "name": "XLR 50 Premium",
+    "price": 1400,
+    "category": "REPEATING MULTI COLOUR",
+    "description": "IPL Celebration",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_i4xr05yfn"
+  },
+  {
+    "name": "Chotta Fancy Single",
+    "price": 60,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ekgGMTO4ELSmmk-ZkBj-U8qGHlNqXMB7",
+    "id": "1757695038013_x17o2kimq"
+  },
+  {
+    "name": "Chotta Fancy 5 in One",
+    "price": 280,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_qvkowbwb3"
+  },
+  {
+    "name": "Fanta Collections",
+    "price": 170,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1Ew-mGQB-KuooKKoMIoJLziE_8nQfNvDC",
+    "id": "1757695038013_naujctn9a"
+  },
+  {
+    "name": "2 Fancy Single Pipe",
+    "price": 99,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1-uDhI8OcPLNZp9qpXjLqKuzdwU0oygyI",
+    "id": "1757695038013_ia7l1lm23"
+  },
+  {
+    "name": "2 Fancy 3 Pcs 3 Colour",
+    "price": 285,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1GItUS9UwoJhTPJquM8FgUF0nIDawnBPB",
+    "id": "1757695038013_8gar0ujnf"
+  },
+  {
+    "name": "2.75 Fancy Single Pipe - 5 varities",
+    "price": 170,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1GAwTqU5r-UOPr8YjVW37u0_jBqHEuwlF",
+    "id": "1757695038013_15i7euhmk"
+  },
+  {
+    "name": "3 Fancy Single Pipe - 6 Colour Varities",
+    "price": 275,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_num06gtmx"
+  },
+  {
+    "name": "3.5Single Pipe Multi Colour With extra Drizzles",
+    "price": 295,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_wvxdfpj6g"
+  },
+  {
+    "name": "3.5 Fancy Double Pack OTT. Series",
+    "price": 560,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_myqh1frb2"
+  },
+  {
+    "name": "3.5 Single - Double Ball Pipe",
+    "price": 430,
+    "category": "PREMIUM - SINGLE SHOT FANCY",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_rk09yb8vj"
+  },
+  {
+    "name": "Raider - The Last Empire",
+    "price": 220,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "colourful sky displ",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_8lzz0a0wv"
+  },
+  {
+    "name": "7 Step Ball Fancy Pipe",
+    "price": 390,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "7 colourful balls with 7 sky shots.",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1Q1M1HJ4psAOjc17FDM3_QAqHZTDTwUsg",
+    "id": "1757695038013_1et4uzdun"
+  },
+  {
+    "name": "12 Star Square (R & G)",
+    "price": 128,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_jw9wy1koc"
+  },
+  {
+    "name": "12 Shot Colour Deluxe Stars",
+    "price": 140,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1gjDukOSQfM-XiOKUPQcFEP7MoY900jtN",
+    "id": "1757695038013_eq3zv5un6"
+  },
+  {
+    "name": "12 Shot Debuyle (Red & Green) With Extra Sound",
+    "price": 152,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1xvPtKdPs40EHNAkS43lebCchZg-OIrL1",
+    "id": "1757695038013_dqj468rsr"
+  },
+  {
+    "name": "25 Shot Multi Colour",
+    "price": 300,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1e91evo0WVQ1kNHIEHsF_FIMKW-hZuwv2",
+    "id": "1757695038013_r4h2p4mo0"
+  },
+  {
+    "name": "30 Shot Multi Colour",
+    "price": 460,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_b4ppbkd32"
+  },
+  {
+    "name": "50 Shot Multi Colour",
+    "price": 580,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1mLw3sTrMAlRH6LU3DgPZ6SAj9gSE9Qv-",
+    "id": "1757695038013_n51y4rxtc"
+  },
+  {
+    "name": "60 Shot Multi Colour",
+    "price": 920,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_sgve3zsmq"
+  },
+  {
+    "name": "120 Shot Multi Colour",
+    "price": 1800,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1fKK19sP_sm7txYHGH8WcShaDo6oo7-4b",
+    "id": "1757695038013_3q1h0t33n"
+  },
+  {
+    "name": "240 Shot Multi Colour",
+    "price": 3600,
+    "category": "PREMIUM - REPEATING MULTI COLOUR",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_tkxkfz5rg"
+  },
+  {
+    "name": "30 Shot Multi Colour with Crackling",
+    "price": 580,
+    "category": "FANCY - AERIAL CRACKLING",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ZNcCwjAclyV4E10Q6xa3s-r-qgMFlWSc",
+    "id": "1757695038013_gtmk0efny"
+  },
+  {
+    "name": "60 Shot Multi Colour with Crackling",
+    "price": 1160,
+    "category": "FANCY - AERIAL CRACKLING",
+    "description": "",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1ovizwDslVL-fo-uPEJtOqawQ6RGiCZsk",
+    "id": "1757695038013_qg72vflrp"
+  },
+  {
+    "name": "120 Shot Multi Colour with Crackling",
+    "price": 2040,
+    "category": "FANCY - AERIAL CRACKLING",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_zb5obpi3f"
+  },
+  {
+    "name": "7 Cm Electric Sparklers",
+    "price": 12,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_y78l9zc3v"
+  },
+  {
+    "name": "10 Cm Electric Sparklers",
+    "price": 16,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_bdx122fxf"
+  },
+  {
+    "name": "10 Cm Colour Sparklers",
+    "price": 18,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ybdvgskoy"
+  },
+  {
+    "name": "10 Cm Red Sparklers",
+    "price": 22,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_vtjzmnarw"
+  },
+  {
+    "name": "10 Cm Green Sparklers",
+    "price": 20,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_36onlbwx9"
+  },
+  {
+    "name": "12 Cm Electric Sparklers",
+    "price": 22,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_30hfjtmyn"
+  },
+  {
+    "name": "12 Cm Glittering Sparklers",
+    "price": 24,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_9aco6le8l"
+  },
+  {
+    "name": "12 Cm Red Sparklers",
+    "price": 28,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_vfw711nab"
+  },
+  {
+    "name": "12 Cm Green Sparklers",
+    "price": 26,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_b0l0v35sg"
+  },
+  {
+    "name": "15 Cm Electric Sparklers",
+    "price": 46,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_2bctjms3e"
+  },
+  {
+    "name": "15 Cm Colour Sparklers",
+    "price": 50,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_3l4ksz0ub"
+  },
+  {
+    "name": "15 Cm Red Sparklers",
+    "price": 55,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_naoqv8pz4"
+  },
+  {
+    "name": "15 Cm Green Sparklers",
+    "price": 52,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_6yknzc70l"
+  },
+  {
+    "name": "30 Cm Electric Sparklers",
+    "price": 52,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_fblxao5xq"
+  },
+  {
+    "name": "30 Cm Colour Sparklers",
+    "price": 56,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_3l04me5v7"
+  },
+  {
+    "name": "30 Cm Red Sparklers",
+    "price": 60,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_0tnvnb3kp"
+  },
+  {
+    "name": "30 Cm Green Sparklers",
+    "price": 58,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_o7fuch7xf"
+  },
+  {
+    "name": "50 Cm Electric Sparklers",
+    "price": 155,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_x5e52g0qp"
+  },
+  {
+    "name": "50 Cm Colour Sparklers",
+    "price": 160,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_lc7k2rnp0"
+  },
+  {
+    "name": "50 Cm Green Sparklers",
+    "price": 165,
+    "category": "SPARKLERS",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_jdw74gv8r"
+  },
+  {
+    "name": "Kidz 25 Items",
+    "price": 350,
+    "category": "GIFT BOXES",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_o6xezzwwy"
+  },
+  {
+    "name": "Myntra 34 Items",
+    "price": 550,
+    "category": "GIFT BOXES",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_ya05qvjti"
+  },
+  {
+    "name": "Elite 45 Items",
+    "price": 750,
+    "category": "GIFT BOXES",
+    "description": "",
+    "inStock": true,
+    "image": "/images/placeholder.svg",
+    "id": "1757695038013_07axr09io"
+  }
+]
