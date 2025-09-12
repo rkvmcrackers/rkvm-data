@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "customerName": "Thangam",
+    "customerPhone": "8220784322",
+    "customerEmail": "saigold1997@gmail.com",
+    "customerAddress": "Sivakai",
+    "orderItems": [
+      {
+        "productId": "1757653823191_hlrsdgaqj",
+        "productName": "50 Shot Multi Colour",
+        "quantity": 1,
+        "price": 580
+      },
+      {
+        "productId": "1757653823191_jb8qopdip",
+        "productName": "240 Shot Multi Colour",
+        "quantity": 1,
+        "price": 3600
+      }
+    ],
+    "orderTotal": 4180,
+    "id": "1757674879203",
+    "orderDate": "2025-09-12T11:01:19.203Z",
+    "status": "pending"
+  }
+]
