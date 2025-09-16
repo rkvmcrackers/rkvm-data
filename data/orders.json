@@ -100,5 +100,131 @@
     "id": "1758000331125",
     "orderDate": "2025-09-16T05:25:31.125Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Krishna prabhu R",
+    "customerPhone": "9361956496",
+    "customerEmail": "krishnaprabhuspa@gmail.com",
+    "customerAddress": "70 avt pudhur street Sivakasi \nMani nagar , Natraj colony",
+    "orderItems": [
+      {
+        "productId": "1757947180346_ar6j1g2es",
+        "productName": "3.5 Lakshmi crackers",
+        "quantity": 1,
+        "price": 12
+      },
+      {
+        "productId": "1757947180346_ivt4i0g69",
+        "productName": "2 3/4 Kuruvi crackers",
+        "quantity": 1,
+        "price": 8
+      },
+      {
+        "productId": "1757947180346_9dppfyru3",
+        "productName": "5 Kaliya crackers",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "productId": "1757947180346_rh8s9vjmk",
+        "productName": "2 Sound Cracker",
+        "quantity": 1,
+        "price": 24
+      },
+      {
+        "productId": "1757947180346_8mhbzizci",
+        "productName": "3 Sound Cracker",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "productId": "1757947180346_7m6pympci",
+        "productName": "Flower Pots Col. Koti",
+        "quantity": 1,
+        "price": 180
+      },
+      {
+        "productId": "1757947180346_zsgm72thk",
+        "productName": "Flower Pots Deluxe 5ps",
+        "quantity": 1,
+        "price": 145
+      },
+      {
+        "productId": "1757947180346_k0w9yz8qr",
+        "productName": "2 Fancy Pipe Single",
+        "quantity": 2,
+        "price": 88
+      },
+      {
+        "productId": "1757947180346_5dgf8uzc2",
+        "productName": "12 Shot Multi Colour",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "productId": "1757947180346_bgb17tnp4",
+        "productName": "12 Shot Debuyle (Red & Green) With Extra Sound",
+        "quantity": 1,
+        "price": 152
+      },
+      {
+        "productId": "1757947180346_bjyi8rdgf",
+        "productName": "120 Shot Multi Colour",
+        "quantity": 1,
+        "price": 1800
+      },
+      {
+        "productId": "1757947180346_84olhsg2c",
+        "productName": "1/4 kg Paper Bomb",
+        "quantity": 4,
+        "price": 40
+      },
+      {
+        "productId": "1757947180346_fzl9lfesp",
+        "productName": "7 Cm Electric Sparklers",
+        "quantity": 1,
+        "price": 12
+      },
+      {
+        "productId": "1757947180346_a7byszvmd",
+        "productName": "10 Cm Electric Sparklers",
+        "quantity": 1,
+        "price": 16
+      },
+      {
+        "productId": "1757947180346_w2zhpk04n",
+        "productName": "10 Cm Colour Sparklers",
+        "quantity": 1,
+        "price": 18
+      },
+      {
+        "productId": "1757947180346_wdfeqjxtp",
+        "productName": "Red Bijili 50’ Ps",
+        "quantity": 2,
+        "price": 16
+      },
+      {
+        "productId": "1757947180346_jw0rj62vz",
+        "productName": "Assorted Cartoon",
+        "quantity": 2,
+        "price": 60
+      },
+      {
+        "productId": "1757947180346_fnt1f3lp9",
+        "productName": "AK-47 hot Shot Shower",
+        "quantity": 1,
+        "price": 170
+      },
+      {
+        "productId": "1757947180346_58g5hu5go",
+        "productName": "Hanuman Gatha Shower",
+        "quantity": 1,
+        "price": 195
+      }
+    ],
+    "orderTotal": 3394,
+    "id": "1758001076581",
+    "orderDate": "2025-09-16T05:37:56.582Z",
+    "status": "pending"
   }
 ]
