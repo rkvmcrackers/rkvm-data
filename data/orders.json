@@ -244,24 +244,5 @@
     "id": "1758037397944",
     "orderDate": "2025-09-16T15:43:17.944Z",
     "status": "pending"
-  },
-  {
-    "customerName": "test by jk2",
-    "customerPhone": "9090909090",
-    "customerEmail": "test@example.com",
-    "customerAddress": "12345",
-    "customerNotes": "test",
-    "orderItems": [
-      {
-        "productId": "1757947180346_wtv7eej0q",
-        "productName": "10000 Fuse",
-        "quantity": 1,
-        "price": 3000
-      }
-    ],
-    "orderTotal": 3000,
-    "id": "1758037665740",
-    "orderDate": "2025-09-16T15:47:45.740Z",
-    "status": "pending"
   }
 ]
