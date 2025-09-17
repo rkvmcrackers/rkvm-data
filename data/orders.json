@@ -226,5 +226,71 @@
     "id": "1758001076581",
     "orderDate": "2025-09-16T05:37:56.582Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Thangam",
+    "customerPhone": "8220784322",
+    "customerEmail": "saigold1997@gmail.com",
+    "customerAddress": "Smt",
+    "orderItems": [
+      {
+        "productId": "1757947180346_5b2x8idb4",
+        "productName": "7 Step Ball Fancy Pipe",
+        "quantity": 4,
+        "price": 390
+      },
+      {
+        "productId": "1757947180346_4g8caqlqp",
+        "productName": "12 Star Square (R & G)",
+        "quantity": 1,
+        "price": 128
+      },
+      {
+        "productId": "1757947180346_vpcubp5pi",
+        "productName": "12 Shot Colour Deluxe Stars",
+        "quantity": 1,
+        "price": 140
+      },
+      {
+        "productId": "1757947180346_bgb17tnp4",
+        "productName": "12 Shot Debuyle (Red & Green) With Extra Sound",
+        "quantity": 1,
+        "price": 152
+      },
+      {
+        "productId": "1757947180346_kh1762p12",
+        "productName": "25 Shot Multi Colour",
+        "quantity": 1,
+        "price": 300
+      },
+      {
+        "productId": "1757947180346_cvgeyusws",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 1,
+        "price": 460
+      },
+      {
+        "productId": "1757947180346_u6ld4kk7w",
+        "productName": "50 Shot Multi Colour",
+        "quantity": 1,
+        "price": 580
+      },
+      {
+        "productId": "1757947180346_lv4n6pdp2",
+        "productName": "60 Shot Multi Colour",
+        "quantity": 1,
+        "price": 920
+      },
+      {
+        "productId": "1757947180346_bjyi8rdgf",
+        "productName": "120 Shot Multi Colour",
+        "quantity": 1,
+        "price": 1800
+      }
+    ],
+    "orderTotal": 6040,
+    "id": "1758086768809",
+    "orderDate": "2025-09-17T05:26:08.809Z",
+    "status": "pending"
   }
 ]
