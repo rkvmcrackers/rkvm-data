@@ -225,7 +225,7 @@
     "id": "1758205332248_0qe890lqa"
   },
   {
-    "name": "Red Bijili 50’ Ps",
+    "name": "Red Bijili 50â Ps",
     "price": 16,
     "category": "BIJILI CRACKERS",
     "description": "Bijili Crackers 50ps",
@@ -243,7 +243,7 @@
     "id": "1758205332248_mw1fcep7o"
   },
   {
-    "name": "Stripper Bijili 50’ Ps",
+    "name": "Stripper Bijili 50â Ps",
     "price": 20,
     "category": "BIJILI CRACKERS",
     "description": "Bijili Crackers 50ps",
@@ -1321,5 +1321,14 @@
     "inStock": true,
     "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1gNhHyr6tfDRlm9cQSQN4reNscoNIqu8Y",
     "id": "1758205332248_2cnnqjwtj"
+  },
+  {
+    "name": "Red Bijili 50’ Ps",
+    "price": 16,
+    "category": "BIJILI CRACKERS",
+    "description": "Bijili Crackers 50ps",
+    "inStock": true,
+    "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1uehY-TPbz1-k7N9e2BbiLcqpnnbMDpkM",
+    "id": "1758205577909_jp2xwo882"
   }
 ]
