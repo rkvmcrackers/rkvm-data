@@ -16,5 +16,14 @@
     "inStock": true,
     "image": "https://images.weserv.nl/?url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1gacvSVUpDsniNETzi4TOga9e_C1keIKR",
     "id": "1758204970124_9fdw5ntyd"
+  },
+  {
+    "name": "4 Lakshmi crackers",
+    "price": 16,
+    "category": "ONE SOUND CRACKERS",
+    "description": "",
+    "inStock": true,
+    "image": "/placeholder.svg",
+    "id": "1758204992649_tbopom6rp"
   }
 ]
