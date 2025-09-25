@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "customerName": "vignesh",
+    "customerPhone": "8765424358",
+    "customerEmail": "hts22082001@gmail.com",
+    "customerAddress": "Ernakulam",
+    "orderItems": [
+      {
+        "productId": "1758207946725_2abt20k97",
+        "productName": "Dragan Cool Shower",
+        "quantity": 27,
+        "price": 120
+      }
+    ],
+    "orderTotal": 3240,
+    "id": "1758799721309",
+    "orderDate": "2025-09-25T11:28:41.309Z",
+    "status": "pending"
+  }
+]
