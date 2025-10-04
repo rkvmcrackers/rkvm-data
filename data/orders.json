@@ -1,1 +1,213 @@
-[]
+[
+  {
+    "customerName": "Harshith ",
+    "customerPhone": "6363445252",
+    "customerEmail": "harshithkallaje36@g.mail.com",
+    "customerAddress": "Kallaje house Indabettu village Bangadi post Belthangady taluk d.k 574214",
+    "customerNotes": "near Kallaje govt school ",
+    "orderItems": [
+      {
+        "productId": "1759590424968_ecrjtbt0k",
+        "productName": "2 3/4 Kuruvi crackers",
+        "quantity": 1,
+        "price": 9
+      },
+      {
+        "productId": "1759590424969_hyhi4f7go",
+        "productName": "3.5 Lakshmi crackers",
+        "quantity": 1,
+        "price": 13.5
+      },
+      {
+        "productId": "1759590424969_h4up59wdn",
+        "productName": "4 Lakshmi crackers",
+        "quantity": 1,
+        "price": 18
+      },
+      {
+        "productId": "1759590424969_bz60ppvcy",
+        "productName": "4 Deluxe Lakshmi crackers",
+        "quantity": 1,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_dl4mfknwm",
+        "productName": "4 Gold Lakshmi crackers",
+        "quantity": 1,
+        "price": 33
+      },
+      {
+        "productId": "1759590424969_qsz9g2w0w",
+        "productName": "5 Kaliya crackers",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_xb7eybc86",
+        "productName": "2 Sound Cracker",
+        "quantity": 1,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_ggp2zq97r",
+        "productName": "3 Sound Cracker",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_j7ivu1rmn",
+        "productName": "Flower Pots Small",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "productId": "1759590424969_jkvsfuntz",
+        "productName": "Flower Pots Big",
+        "quantity": 1,
+        "price": 67
+      },
+      {
+        "productId": "1759590424969_fzte6cowi",
+        "productName": "Flower Pots Special",
+        "quantity": 1,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_hd56hptfm",
+        "productName": "Flower Pots Asoka",
+        "quantity": 1,
+        "price": 117
+      },
+      {
+        "productId": "1759590424969_spxcvif3x",
+        "productName": "Flower Pots Col. Koti",
+        "quantity": 1,
+        "price": 202
+      },
+      {
+        "productId": "1759590424969_dy9e6zj86",
+        "productName": "Flower Pots Deluxe 5ps",
+        "quantity": 1,
+        "price": 162
+      },
+      {
+        "productId": "1759590424969_pp0p084cc",
+        "productName": "Flower Pots Super Deluxe 2ps",
+        "quantity": 1,
+        "price": 144
+      },
+      {
+        "productId": "1759590424969_vhpidrgbp",
+        "productName": "Ground Chakkar Small",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_5k1egpjhx",
+        "productName": "Ground Chakkar Big 25ps",
+        "quantity": 1,
+        "price": 81
+      },
+      {
+        "productId": "1759590424969_89aviz4va",
+        "productName": "Ground Chakkar Special",
+        "quantity": 1,
+        "price": 81
+      },
+      {
+        "productId": "1759590424969_9mp08r313",
+        "productName": "Ground Chakkar Deluxe",
+        "quantity": 1,
+        "price": 126
+      },
+      {
+        "productId": "1759590424969_iz9zg9gaj",
+        "productName": "Red Bijili 100 Ps",
+        "quantity": 1,
+        "price": 31.5
+      },
+      {
+        "productId": "1759590424969_fq8oovyj3",
+        "productName": "600 Fuse",
+        "quantity": 1,
+        "price": 275
+      },
+      {
+        "productId": "1759590424969_xhy8nk3bs",
+        "productName": "24 Tiger Fighter Crackers",
+        "quantity": 1,
+        "price": 54
+      },
+      {
+        "productId": "1759590424969_kizrq8zvn",
+        "productName": "Mini Bullet",
+        "quantity": 1,
+        "price": 22
+      },
+      {
+        "productId": "1759590424969_12ak3vkc7",
+        "productName": "Classic Bomb",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_lwnr5np7j",
+        "productName": "Digital Bomb",
+        "quantity": 1,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_jo6gdh1kl",
+        "productName": "Golden Wheel",
+        "quantity": 1,
+        "price": 80
+      },
+      {
+        "productId": "1759590424969_nulyq7op2",
+        "productName": "Tin Shower Multicolour",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "productId": "1759590424969_h9i88o3rv",
+        "productName": "Tri-Colour Fountain",
+        "quantity": 1,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_io6uuyozn",
+        "productName": "Sizzler Fountain",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_ypgcaq6ab",
+        "productName": "Rotating Sparklers",
+        "quantity": 1,
+        "price": 220
+      },
+      {
+        "productId": "1759590424969_f4fp0yk4u",
+        "productName": "25 Shot Multi Colour Long",
+        "quantity": 2,
+        "price": 380
+      },
+      {
+        "productId": "1759590424969_vp4yj126s",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 1,
+        "price": 405
+      },
+      {
+        "productId": "1759590424969_d9j4nt5hg",
+        "productName": "Kidz 25 Items",
+        "quantity": 1,
+        "price": 350
+      }
+    ],
+    "orderTotal": 4373,
+    "id": "1759591877422",
+    "orderDate": "2025-10-04T15:31:17.422Z",
+    "status": "pending"
+  }
+]
