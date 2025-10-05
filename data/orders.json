@@ -209,5 +209,72 @@
     "id": "1759591877422",
     "orderDate": "2025-10-04T15:31:17.422Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Jeevan ",
+    "customerPhone": "7899771583",
+    "customerEmail": "gowdajeevan887@gmail.com",
+    "customerAddress": "Mangalore ",
+    "customerNotes": "please Pack Properly.",
+    "orderItems": [
+      {
+        "productId": "1759590424969_xm1jwt9zo",
+        "productName": "Stripper Bijili 100 Ps",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_iz9zg9gaj",
+        "productName": "Red Bijili 100 Ps",
+        "quantity": 1,
+        "price": 31.5
+      },
+      {
+        "productId": "1759590424969_lwnr5np7j",
+        "productName": "Digital Bomb",
+        "quantity": 11,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_l7inklc5e",
+        "productName": "Plastic Gun with Roll Cap",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "productId": "1759590424969_jkvsfuntz",
+        "productName": "Flower Pots Big",
+        "quantity": 1,
+        "price": 67
+      },
+      {
+        "productId": "1759590424969_qsz9g2w0w",
+        "productName": "5 Kaliya crackers",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_7cqrqvfo7",
+        "productName": "30 Cm Colour Sparklers",
+        "quantity": 1,
+        "price": 63
+      },
+      {
+        "productId": "1759590424969_vp4yj126s",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 1,
+        "price": 405
+      },
+      {
+        "productId": "1759590424969_f4fp0yk4u",
+        "productName": "25 Shot Multi Colour Long",
+        "quantity": 3,
+        "price": 380
+      }
+    ],
+    "orderTotal": 4513.5,
+    "id": "1759645459899",
+    "orderDate": "2025-10-05T06:24:19.899Z",
+    "status": "pending"
   }
 ]
