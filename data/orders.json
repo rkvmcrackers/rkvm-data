@@ -276,5 +276,233 @@
     "id": "1759645459899",
     "orderDate": "2025-10-05T06:24:19.899Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Durai",
+    "customerPhone": "9092589917",
+    "customerEmail": "rambala626123@gmail.com",
+    "customerAddress": "Kumbakonam ",
+    "orderItems": [
+      {
+        "productId": "1759590424968_ecrjtbt0k",
+        "productName": "2 3/4 Kuruvi crackers",
+        "quantity": 2,
+        "price": 9
+      },
+      {
+        "productId": "1759590424969_hyhi4f7go",
+        "productName": "3.5 Lakshmi crackers",
+        "quantity": 1,
+        "price": 13.5
+      },
+      {
+        "productId": "1759590424969_h4up59wdn",
+        "productName": "4 Lakshmi crackers",
+        "quantity": 1,
+        "price": 18
+      },
+      {
+        "productId": "1759590424969_j7ivu1rmn",
+        "productName": "Flower Pots Small",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "productId": "1759590424969_jkvsfuntz",
+        "productName": "Flower Pots Big",
+        "quantity": 2,
+        "price": 67
+      },
+      {
+        "productId": "1759590424969_vhpidrgbp",
+        "productName": "Ground Chakkar Small",
+        "quantity": 3,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_5k1egpjhx",
+        "productName": "Ground Chakkar Big 25ps",
+        "quantity": 1,
+        "price": 81
+      },
+      {
+        "productId": "1759590424969_89aviz4va",
+        "productName": "Ground Chakkar Special",
+        "quantity": 1,
+        "price": 81
+      },
+      {
+        "productId": "1759590424969_bc6vat93f",
+        "productName": "1 1/2  Twinkling Star",
+        "quantity": 4,
+        "price": 25
+      },
+      {
+        "productId": "1759590424969_3obkd8tez",
+        "productName": "Rocket Bomb",
+        "quantity": 3,
+        "price": 58
+      },
+      {
+        "productId": "1759590424969_iz9zg9gaj",
+        "productName": "Red Bijili 100 Ps",
+        "quantity": 1,
+        "price": 31.5
+      },
+      {
+        "productId": "1759590424969_plzkrl14f",
+        "productName": "1000 Fuse",
+        "quantity": 1,
+        "price": 335
+      },
+      {
+        "productId": "1759590424969_k9hausnj8",
+        "productName": "1/4 kg Paper Bomb",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "productId": "1759590424969_zoqgqedmg",
+        "productName": "Star Pots 5 colour (5ps)",
+        "quantity": 1,
+        "price": 99
+      },
+      {
+        "productId": "1759590424969_nulyq7op2",
+        "productName": "Tin Shower Multicolour",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "productId": "1759590424969_h9i88o3rv",
+        "productName": "Tri-Colour Fountain",
+        "quantity": 1,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_k3etp3b89",
+        "productName": "Peacock Feather Shower",
+        "quantity": 1,
+        "price": 185
+      },
+      {
+        "productId": "1759590424969_urszc35c2",
+        "productName": "Silver rain tourch",
+        "quantity": 1,
+        "price": 65
+      },
+      {
+        "productId": "1759590424969_vwmpiethi",
+        "productName": "Snake Tablet",
+        "quantity": 5,
+        "price": 20
+      },
+      {
+        "productId": "1759590424969_dr9ss95cm",
+        "productName": "Penta Colour Collection 5ps",
+        "quantity": 1,
+        "price": 160
+      },
+      {
+        "productId": "1759590424969_korhz16q6",
+        "productName": "12 Shot Multi Colour",
+        "quantity": 1,
+        "price": 126
+      },
+      {
+        "productId": "1759590424969_ohq5kxzte",
+        "productName": "Chotta Fancy Single",
+        "quantity": 2,
+        "price": 72
+      },
+      {
+        "productId": "1759590424969_a7z6jlbut",
+        "productName": "10 Cm Colour Sparklers",
+        "quantity": 2,
+        "price": 20.5
+      },
+      {
+        "productId": "1759590424969_6yttmi7m0",
+        "productName": "10 Cm Red Sparklers",
+        "quantity": 2,
+        "price": 22.5
+      },
+      {
+        "productId": "1759590424969_y51i8g3wb",
+        "productName": "10 Cm Green Sparklers",
+        "quantity": 2,
+        "price": 22.5
+      },
+      {
+        "productId": "1759590424969_08yq207ii",
+        "productName": "12 Cm Electric Sparklers",
+        "quantity": 4,
+        "price": 24.75
+      },
+      {
+        "productId": "1759590424969_1o36tsmga",
+        "productName": "12 Cm Glittering Sparklers",
+        "quantity": 2,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_bb0bzltkv",
+        "productName": "30 Cm Electric Sparklers",
+        "quantity": 1,
+        "price": 58.5
+      },
+      {
+        "productId": "1759590424969_aaslmw9x2",
+        "productName": "30 Cm Red Sparklers",
+        "quantity": 1,
+        "price": 63
+      },
+      {
+        "productId": "1759590424969_fzte6cowi",
+        "productName": "Flower Pots Special",
+        "quantity": 1,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_spxcvif3x",
+        "productName": "Flower Pots Col. Koti",
+        "quantity": 1,
+        "price": 202
+      },
+      {
+        "productId": "1759590424969_fyaqlt7tn",
+        "productName": "Sil/Silay - Gold Glitering",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "productId": "1759590424969_pbl9w2r80",
+        "productName": "colour Butterfly",
+        "quantity": 1,
+        "price": 117
+      },
+      {
+        "productId": "1759590424969_0ee01f9yu",
+        "productName": "12 Cm Red Sparklers",
+        "quantity": 2,
+        "price": 31.5
+      },
+      {
+        "productId": "1759590424969_47tej4i0s",
+        "productName": "12 Cm Green Sparklers",
+        "quantity": 1,
+        "price": 29.25
+      },
+      {
+        "productId": "1759590424969_7cqrqvfo7",
+        "productName": "30 Cm Colour Sparklers",
+        "quantity": 1,
+        "price": 63
+      }
+    ],
+    "orderTotal": 3452.75,
+    "id": "1759849819669",
+    "orderDate": "2025-10-07T15:10:19.670Z",
+    "status": "pending"
   }
 ]
