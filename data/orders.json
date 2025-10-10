@@ -504,5 +504,130 @@
     "id": "1759849819669",
     "orderDate": "2025-10-07T15:10:19.670Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Shivaraj",
+    "customerPhone": "7760095181",
+    "customerAddress": "Sri dharmashastha general store\nNear Ganapathi hall shediguri cricle, Shediguri, Bantwal, Dakshinakannada-Mangalore, Karnataka-574231",
+    "orderItems": [
+      {
+        "productId": "1759590424969_dl4mfknwm",
+        "productName": "4 Gold Lakshmi crackers",
+        "quantity": 2,
+        "price": 33
+      },
+      {
+        "productId": "1759590424969_qsz9g2w0w",
+        "productName": "5 Kaliya crackers",
+        "quantity": 2,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_xb7eybc86",
+        "productName": "2 Sound Cracker",
+        "quantity": 2,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_fzte6cowi",
+        "productName": "Flower Pots Special",
+        "quantity": 2,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_5k1egpjhx",
+        "productName": "Ground Chakkar Big 25ps",
+        "quantity": 2,
+        "price": 81
+      },
+      {
+        "productId": "1759590424969_bc6vat93f",
+        "productName": "1 1/2  Twinkling Star",
+        "quantity": 2,
+        "price": 25
+      },
+      {
+        "productId": "1759590424969_ji49fhgvx",
+        "productName": "4 Deluxe Twinkling Star",
+        "quantity": 2,
+        "price": 63
+      },
+      {
+        "productId": "1759590424969_xm5nxkh61",
+        "productName": "2 Sound Rocket",
+        "quantity": 2,
+        "price": 115
+      },
+      {
+        "productId": "1759590424969_3obkd8tez",
+        "productName": "Rocket Bomb",
+        "quantity": 2,
+        "price": 58
+      },
+      {
+        "productId": "1759590424969_iz9zg9gaj",
+        "productName": "Red Bijili 100 Ps",
+        "quantity": 6,
+        "price": 31.5
+      },
+      {
+        "productId": "1759590424969_xm1jwt9zo",
+        "productName": "Stripper Bijili 100 Ps",
+        "quantity": 2,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_i3b87b6b8",
+        "productName": "300 Fuse",
+        "quantity": 4,
+        "price": 135
+      },
+      {
+        "productId": "1759590424969_kizrq8zvn",
+        "productName": "Mini Bullet",
+        "quantity": 2,
+        "price": 22
+      },
+      {
+        "productId": "1759590424969_12ak3vkc7",
+        "productName": "Classic Bomb",
+        "quantity": 4,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_s4v3cdcxj",
+        "productName": "Ganga Jamuna",
+        "quantity": 2,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_zoqgqedmg",
+        "productName": "Star Pots 5 colour (5ps)",
+        "quantity": 2,
+        "price": 99
+      },
+      {
+        "productId": "1759590424969_kjf3zs1rj",
+        "productName": "Siren Small (5 Pcs)",
+        "quantity": 2,
+        "price": 162
+      },
+      {
+        "productId": "1759590424969_bb0bzltkv",
+        "productName": "30 Cm Electric Sparklers",
+        "quantity": 2,
+        "price": 58.5
+      },
+      {
+        "productId": "1759590424969_aaslmw9x2",
+        "productName": "30 Cm Red Sparklers",
+        "quantity": 2,
+        "price": 63
+      }
+    ],
+    "orderTotal": 3346,
+    "id": "1760078398112",
+    "orderDate": "2025-10-10T06:39:58.112Z",
+    "status": "pending"
   }
 ]
