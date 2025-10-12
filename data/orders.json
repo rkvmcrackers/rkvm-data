@@ -629,5 +629,77 @@
     "id": "1760078398112",
     "orderDate": "2025-10-10T06:39:58.112Z",
     "status": "pending"
+  },
+  {
+    "customerName": "Guru Prasad ",
+    "customerPhone": "9380413295",
+    "customerEmail": "gurup2901@gmail.com",
+    "customerAddress": "11/B ANJANADRI NILAYA SAI KRISHNA RESIDENCY LAYOUT JAKKASANDRA NELAMANGALA BANGALORE 562123",
+    "orderItems": [
+      {
+        "productId": "1759590424969_vp4yj126s",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 2,
+        "price": 405
+      },
+      {
+        "productId": "1759590424969_pp0p084cc",
+        "productName": "Flower Pots Super Deluxe 2ps",
+        "quantity": 2,
+        "price": 144
+      },
+      {
+        "productId": "1759590424969_9mp08r313",
+        "productName": "Ground Chakkar Deluxe",
+        "quantity": 1,
+        "price": 126
+      },
+      {
+        "productId": "1759590424969_xm5nxkh61",
+        "productName": "2 Sound Rocket",
+        "quantity": 2,
+        "price": 115
+      },
+      {
+        "productId": "1759590424969_ggp2zq97r",
+        "productName": "3 Sound Cracker",
+        "quantity": 5,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_lwnr5np7j",
+        "productName": "Digital Bomb",
+        "quantity": 1,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_exz6ozcoj",
+        "productName": "3.5 Single pipe Smash Series",
+        "quantity": 1,
+        "price": 280
+      },
+      {
+        "productId": "1759590424969_y51i8g3wb",
+        "productName": "10 Cm Green Sparklers",
+        "quantity": 2,
+        "price": 22.5
+      },
+      {
+        "productId": "1759590424969_fq8oovyj3",
+        "productName": "600 Fuse",
+        "quantity": 1,
+        "price": 275
+      },
+      {
+        "productId": "1759590424969_ghlwx5scf",
+        "productName": "30 Shot Multi Colour with Crackling",
+        "quantity": 1,
+        "price": 650
+      }
+    ],
+    "orderTotal": 3124,
+    "id": "1760275457162",
+    "orderDate": "2025-10-12T13:24:17.162Z",
+    "status": "pending"
   }
 ]
