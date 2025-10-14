@@ -839,5 +839,162 @@
     "id": "1760412859851",
     "orderDate": "2025-10-14T03:34:19.851Z",
     "status": "pending"
+  },
+  {
+    "customerName": "V.kannan",
+    "customerPhone": "8012792157",
+    "customerEmail": "vkannan.shakthi2010@gmail.com",
+    "customerAddress": "JUNIOR ENGINEER \nDISTRIBUTION  TNEB\nMEENAKSHI PURAM",
+    "customerNotes": "Near 110/11KV MEENAKSHI PURAM SUBSTATION TNEB",
+    "orderItems": [
+      {
+        "productId": "1759590424969_dl4mfknwm",
+        "productName": "4 Gold Lakshmi crackers",
+        "quantity": 2,
+        "price": 33
+      },
+      {
+        "productId": "1759590424969_xb7eybc86",
+        "productName": "2 Sound Cracker",
+        "quantity": 1,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_jkvsfuntz",
+        "productName": "Flower Pots Big",
+        "quantity": 1,
+        "price": 67
+      },
+      {
+        "productId": "1759590424969_fzte6cowi",
+        "productName": "Flower Pots Special",
+        "quantity": 1,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_hd56hptfm",
+        "productName": "Flower Pots Asoka",
+        "quantity": 1,
+        "price": 117
+      },
+      {
+        "productId": "1759590424969_ovry6rdsc",
+        "productName": "Flower Pots Dlx.Colour Koti 10ps",
+        "quantity": 1,
+        "price": 279
+      },
+      {
+        "productId": "1759590424969_dy9e6zj86",
+        "productName": "Flower Pots Deluxe 5ps",
+        "quantity": 1,
+        "price": 162
+      },
+      {
+        "productId": "1759590424969_ji49fhgvx",
+        "productName": "4 Deluxe Twinkling Star",
+        "quantity": 1,
+        "price": 63
+      },
+      {
+        "productId": "1759590424969_xm1jwt9zo",
+        "productName": "Stripper Bijili 100 Ps",
+        "quantity": 1,
+        "price": 36
+      },
+      {
+        "productId": "1759590424969_i3b87b6b8",
+        "productName": "300 Fuse",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "productId": "1759590424969_plzkrl14f",
+        "productName": "1000 Fuse",
+        "quantity": 1,
+        "price": 335
+      },
+      {
+        "productId": "1759590424969_12ak3vkc7",
+        "productName": "Classic Bomb",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_k9hausnj8",
+        "productName": "1/4 kg Paper Bomb",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "productId": "1759590424969_fl202krhm",
+        "productName": "Money Blast",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "productId": "1759590424969_zoqgqedmg",
+        "productName": "Star Pots 5 colour (5ps)",
+        "quantity": 1,
+        "price": 99
+      },
+      {
+        "productId": "1759590424969_vwmpiethi",
+        "productName": "Snake Tablet",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "productId": "1759590424969_f4fp0yk4u",
+        "productName": "25 Shot Multi Colour Long",
+        "quantity": 1,
+        "price": 380
+      },
+      {
+        "productId": "1759590424969_8ezauxjg8",
+        "productName": "12 Star Square (R & G)",
+        "quantity": 1,
+        "price": 145
+      },
+      {
+        "productId": "1759590424969_5lt7d1v8t",
+        "productName": "25 Shot Multi Colour",
+        "quantity": 1,
+        "price": 337
+      },
+      {
+        "productId": "1759590424969_pfazmu9yy",
+        "productName": "15 Cm Green Sparklers",
+        "quantity": 1,
+        "price": 56.25
+      },
+      {
+        "productId": "1759590424969_ncehauw8c",
+        "productName": "15 Cm Red Sparklers",
+        "quantity": 1,
+        "price": 56.25
+      },
+      {
+        "productId": "1759590424969_lpmdiclki",
+        "productName": "15 Cm Colour Sparklers",
+        "quantity": 1,
+        "price": 51.75
+      },
+      {
+        "productId": "1759590424969_g8p6yg7oc",
+        "productName": "15 Cm Electric Sparklers",
+        "quantity": 1,
+        "price": 56.25
+      },
+      {
+        "productId": "1759590424969_bo01989l5",
+        "productName": "50 Shot Multi Colour",
+        "quantity": 1,
+        "price": 650
+      }
+    ],
+    "orderTotal": 3468.5,
+    "id": "1760454786897",
+    "orderDate": "2025-10-14T15:13:06.897Z",
+    "status": "pending"
   }
 ]
