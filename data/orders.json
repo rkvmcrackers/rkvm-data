@@ -701,5 +701,143 @@
     "id": "1760275457162",
     "orderDate": "2025-10-12T13:24:17.162Z",
     "status": "pending"
+  },
+  {
+    "customerName": "T.Marivenkatesan",
+    "customerPhone": "9865518701",
+    "customerEmail": "marivenkat@gmail.com",
+    "customerAddress": "5/190a sakthi illam bharthi nagar 3rd Street Muthyapuram Tuticorn 628005.",
+    "orderItems": [
+      {
+        "productId": "1759590424969_dl4mfknwm",
+        "productName": "4 Gold Lakshmi crackers",
+        "quantity": 3,
+        "price": 33
+      },
+      {
+        "productId": "1759590424969_fzte6cowi",
+        "productName": "Flower Pots Special",
+        "quantity": 2,
+        "price": 90
+      },
+      {
+        "productId": "1759590424969_spxcvif3x",
+        "productName": "Flower Pots Col. Koti",
+        "quantity": 2,
+        "price": 202
+      },
+      {
+        "productId": "1759590424969_9mp08r313",
+        "productName": "Ground Chakkar Deluxe",
+        "quantity": 2,
+        "price": 126
+      },
+      {
+        "productId": "1759590424969_fq8oovyj3",
+        "productName": "600 Fuse",
+        "quantity": 2,
+        "price": 275
+      },
+      {
+        "productId": "1759590424969_plzkrl14f",
+        "productName": "1000 Fuse",
+        "quantity": 1,
+        "price": 335
+      },
+      {
+        "productId": "1759590424969_mmxi6y856",
+        "productName": "50 Dragan Fighter Crackers",
+        "quantity": 1,
+        "price": 108
+      },
+      {
+        "productId": "1759590424969_nxdb7yoaw",
+        "productName": "28 Deluxe Mighty Crackers",
+        "quantity": 1,
+        "price": 27
+      },
+      {
+        "productId": "1759590424969_12ak3vkc7",
+        "productName": "Classic Bomb",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_01d81ebh8",
+        "productName": "1 kg Paper Bomb",
+        "quantity": 1,
+        "price": 180
+      },
+      {
+        "productId": "1759590424969_zoqgqedmg",
+        "productName": "Star Pots 5 colour (5ps)",
+        "quantity": 1,
+        "price": 99
+      },
+      {
+        "productId": "1759590424969_nulyq7op2",
+        "productName": "Tin Shower Multicolour",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "productId": "1759590424969_h9i88o3rv",
+        "productName": "Tri-Colour Fountain",
+        "quantity": 1,
+        "price": 240
+      },
+      {
+        "productId": "1759590424969_io6uuyozn",
+        "productName": "Sizzler Fountain",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "productId": "1759590424969_gfwkcfo8f",
+        "productName": "Bada Peacock - Big Shinning Feather",
+        "quantity": 1,
+        "price": 340
+      },
+      {
+        "productId": "1759590424969_dr9ss95cm",
+        "productName": "Penta Colour Collection 5ps",
+        "quantity": 1,
+        "price": 160
+      },
+      {
+        "productId": "1759590424969_vp4yj126s",
+        "productName": "30 Shot Multi Colour",
+        "quantity": 1,
+        "price": 405
+      },
+      {
+        "productId": "1759590424969_f4fp0yk4u",
+        "productName": "25 Shot Multi Colour Long",
+        "quantity": 1,
+        "price": 380
+      },
+      {
+        "productId": "1759590424969_ohq5kxzte",
+        "productName": "Chotta Fancy Single",
+        "quantity": 2,
+        "price": 72
+      },
+      {
+        "productId": "1759590424969_x3w9k13sj",
+        "productName": "3 Fancy Single Pipe - 6 Colour Varities",
+        "quantity": 1,
+        "price": 260
+      },
+      {
+        "productId": "1759590424969_5lt7d1v8t",
+        "productName": "25 Shot Multi Colour",
+        "quantity": 1,
+        "price": 337
+      }
+    ],
+    "orderTotal": 5095,
+    "id": "1760412859851",
+    "orderDate": "2025-10-14T03:34:19.851Z",
+    "status": "pending"
   }
 ]
